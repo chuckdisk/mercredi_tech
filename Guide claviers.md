@@ -60,8 +60,10 @@ La norme ANSI domine le marché, et la plupart des amateurs de claviers customs 
 **Layout logique** (comment sont attribuées les touches)
 
 * **[ANSI-US](https://keyshorts.com/blogs/blog/44712961-how-to-identify-laptop-keyboard-localization#us-english)** : la disposition standard "QWERTY" américaine
+* **[ANSI-US International](https://commons.wikimedia.org/wiki/File:KB_US-International.svg)** : une variante du ANSI plus pratique pour taper en français notamment les caractères accentués
 * **[ISO-UK](https://keyshorts.com/blogs/blog/44712961-how-to-identify-laptop-keyboard-localization#uk-british-english)** : le QWERTY anglais
 * **[ISO-FR](https://keyshorts.com/blogs/blog/44712961-how-to-identify-laptop-keyboard-localization#french)** : le bon vieux AZERTY bien de chez nous
+* **[BÉPO](https://bepo.fr/wiki/Accueil)** : un layout alternatif spécialement étudié pour optimiser la frappe en français.
 
 Rien n'empêche donc, comme seuls les marquages sur les touches diffèrent, de mapper un clavier ISO-UK en ISO-FR ou inversement, tant que vous faites abstraction desdits marquages.
 
@@ -106,9 +108,9 @@ Je déconseille l'achat d'un clavier mécanique à ce budget : économisez en pr
 
 | Modèle          | Prix                                               | Format    | Layout | Remarques |
 | --------------- | -------------------------------------------------- | --------- | ------ | --------- |
-| **Logitech K120**   | [16€](https://www.ldlc.com/fiche/PB00103723.html)  | Full-size | ISO-FR, ANSI | Un clavier simple mais robuste et durable |
-| **Dell KB216**      | [19€](https://www.dell.com/fr-fr/shop/clavier-multim%C3%A9dia-dell-kb216-fran%C3%A7ais-azerty-noir/apd/580-adgu/accessoires-pour-ordinateurs) | Full-size | ISO-FR, ANSI | Pour ceux qui préfèrent le "chicklet" |
-| **Cherry KC 6000 Slim** | [40€](https://ledenicheur.fr/product.php?p=4796015) | Full-size | ISO-FR, ANSI | Un clavier à switch ciseaux [Cherry SX](https://deskthority.net/wiki/Cherry_SX), très résistants à l'usure.
+| Logitech K120   | [16€](https://www.ldlc.com/fiche/PB00103723.html)  | Full-size | ISO-FR, ANSI | Un clavier simple mais robuste et durable |
+| Dell KB216      | [19€](https://www.dell.com/fr-fr/shop/clavier-multim%C3%A9dia-dell-kb216-fran%C3%A7ais-azerty-noir/apd/580-adgu/accessoires-pour-ordinateurs) | Full-size | ISO-FR, ANSI | Pour ceux qui préfèrent le "chicklet" |
+| Cherry KC 6000 Slim | [40€](https://ledenicheur.fr/product.php?p=4796015) | Full-size | ISO-FR, ANSI | Un clavier à switch ciseaux [Cherry SX](https://deskthority.net/wiki/Cherry_SX), très résistants à l'usure.
 
 
 
@@ -151,20 +153,27 @@ Les plus motivés ou exigeants pourront opter pour la construction d'un clavier 
 
 Les matériaux, la finition, la carte électronique, le [type de montage](https://images.squarespace-cdn.com/content/v1/6116b9604a8e6b639a58a447/1628879206520-0ARJ4J6QZ26O3HHGYOSW/thomas-baart_20190407_KeyboardMountingStylesCheatSheet.png?format=1500w), les premières étapes pour concevoir son clavier sur mesure.
 
-* **Les touches (keycaps)**
-
-Les critères de choix vont surtout être la couleur, la police d'écriture, la transparence des caractères pour le rétro-éclairage, et surtout [le profil](http://xahlee.info/kbd/keycap_profiles.html) (SA, DSA, OEM, XDA...). Vérifiez aussi la compatibilité avec vos switchs, tout n'est pas prévu pour le format Cherry MX.
-
 * **Un choix de switchs élargi**
 
 Plus besoin de limiter ses options aux switchs vendus avec des *prebuilt*, vous êtes libres d'utiliser la myriade de switchs disponibles sur le marché et même de les mixer. Quelques recommandations que j'ai pu glaner : 
 
 * **Linéaire :** Zeal Telio v2, JWK Cream, Gateron Black, Gateron Milky Yellow
-* **Tactile :** C^3 Equalz X Dragonfruit, Ergo Clear, Durock Koala/T1, Holy Panda, Boba U4s
+* **Tactile :** C^3 Equalz X Dragonfruit, MX Ergo Clear, Durock Koala/T1, Holy Panda, Boba U4s
 * **Clicky :** Outemu Phoenix, Kailh Box White/Jade/Navy, NovelKeys Sherbet
 * **Silencieux :** Aliaz Silent, Zeal Zilent, Gateron Silent Red/Black, Boba U4t
 
 Certains switchs existent en différents niveaux de dureté (force du ressort : 62g, 67g...). Il peut être difficile de choisir quoi prendre sans avoir testé, c'est pour quoi il existe des [switch testers](https://keygem.store/collections/switch-testers/products/switch-tester-3x3).
+
+
+* **Les touches (keycaps)**
+
+Vous pourrez choisir entre différents matériaux (ABS, PBT...), la police d'écriture, le type de moulage (dye-sublimation, doubleshot...), la transparence des caractères pour le rétro-éclairage, et bien sûr un thème de couleur. Les keycaps les plus prisés se retrouvent souvent en [group buys](https://www.mechgroupbuys.com/) temporaires.
+
+Vérifiez aussi la compatibilité avec vos switchs, tout n'est pas prévu pour le format Cherry MX.
+
+* **Le profil des touches**
+
+La forme et l'angle des touches sur les différentes lignes. Les claviers prebuilt sont souvent en profil OEM ou Cherry, mais vous pouvez opter pour des profils différents : SA, DSA, XDA... [Cette image](https://i.imgur.com/bkTCe9B.jpg) montre les différents profils disponibles.
 
 * **Les stabilisateurs (stabs)**
 
@@ -189,8 +198,7 @@ Il m'est difficile de recommander des modèles, ça serait comme proposer un PC 
 | ----------- | --------------------------------------- | -------- | --------- |
 | Glorious GMMK        | [90-100€](https://www.ldlc.com/informatique/peripherique-pc/clavier/c4606/+fb-C000037356+fp-l80h106+fv2492-19252.html) | Full, TKL, 60% | Hey, il est pas cher celui-là non ? Ce clavier avec RGB, hot-swap et chassis ABS représente l'entrée de gamme du clavier custom, utile si vous voulez surtout un grand choix de switchs au détriment d'un chassis de haute qualité. [Review vidéo](https://www.youtube.com/watch?v=8CyrBthw5fk). |
 | Keychron Q1 | [$170](https://www.keychron.com/products/keychron-q1?variant=39405020872793) | 75%          | Un clavier qui surprends par son excellent rapport qualité/prix. Plaque et boitier en aluminium CNC, RGB, et compatibilité QMK. Existe en ANSI ou ISO, et vous pouvez le personnaliser sur le site de Keychron. [Review vidéo](https://www.youtube.com/watch?v=syS3EQcSK3E) |
-| KBDFans    | [120€+](https://kbdfans.com/collections)    | Full, TKL, 75%, 65%... | Disponibles en d'un kit DIY ou déjà assemblés, les claviers de KBDFans vous offrent pléthore d'options et des matériaux variés, même le bois. Stocks un peu aléatoires par contre. [Review vidéo du KBD67](https://www.youtube.com/watch?v=UBdjbIv_ebY)?
-| Drop CTRL/ALT | [180€+](https://drop.com/mechanical-keyboards/tag/keyboards) | TLK, 75% | Pas de ISO ici, mais de bonnes options de switchs pour le kit tout compris, de l'aluminium, l'embarras du choix sur les keycaps et la compatibilité QMK au programme. Drop mets également l'accent sur les effets RGB ce qui est assez rare sur les customs. [Review vidéo](https://www.youtube.com/watch?v=moKoldtixHk). |
+| KBDFans    | [120€+](https://kbdfans.com/collections)    | Full, TKL, 75%, 65%... | Disponibles en d'un kit DIY ou déjà assemblés, les claviers de KBDFans vous offrent pléthore d'options et des matériaux variés, même le bois. Stocks un peu aléatoires par contre. [Review vidéo du KBD67](https://www.youtube.com/watch?v=UBdjbIv_ebY) |
 | Glorious GMMK Pro    | [200€](https://candykeys.com/product/gmmk-pro-iso) | 75%         | Proposé sous la forme d'un [kit configurable](https://www.pcgamingrace.com/pages/configurator?color=white) sur le site de GMMK, il offre un haut niveau de customisation et des fonctionnalités chères aux passionnés (large choix de switchs, gasket mount, isolation sonore, switchs hot-swappables...).  Un châssis ISO est également disponible [dans d'autres boutiques](https://mykeyboard.eu/catalogue/category/glorious_443/?q=&sort_by=price-desc). [Review vidéo](https://www.youtube.com/watch?v=hS4czKl7WpQ). |
 | Faites-le vous même | €€€ | Ce que vous voulez | Farfouillez les différents forums, salons de discussion et boutiques pour concevoir votre clavier sur-mesure. Les communautés de hobbyistes des claviers sont souvent accueillantes et vous aideront à trouver chaussure à votre pied. |
 
@@ -248,4 +256,8 @@ Ces claviers demandent un gros temps d'adaptation mais peuvent réduire ou prév
 
 * [A quick overview of mechanical keyboards](https://pcpartpicker.com/forums/topic/282279-a-quick-overview-of-mechanical-keyboards)
 
+* [Picking a keycap set for your mechanical keyboard](https://switchandclick.com/ultimate-guide-to-picking-a-keycap-set-for-your-mechanical-keyboard/)
+
 * [Guides de The Tech Frontier](https://thetechfrontier.net/category/keyboards/)
+
+* [Tuto : comment faire un clavier custom](https://clavier-meca.com/comment-faire-clavier-custom)
