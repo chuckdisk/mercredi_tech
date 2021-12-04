@@ -2,7 +2,7 @@
 
 *****
 
-Vous voulez un écran pour Noël ? Ce guide remplace l'ancien guide moniteurs de 2019 en deux parties, car j'ai constaté que beaucoup lisaient le guide d'achat mais pas forcément la partie 1. J'ai laissé les anciens sujets (partie [1](https://www.reddit.com/r/france/comments/ebdgh8/guide_moniteurs_12_r%C3%A9solutiond%C3%A9finition_type_de/) et [2](https://www.reddit.com/r/france/comments/ebtwr7/guide_moniteurs_22_guide_dachat_selon_budget_et/)) pour que vous puissiez bénéficier des commentaires de l'époque à tout hasard.
+Vous voulez un écran pour Noël ? Ce guide remplace l'ancien guide moniteurs de 2019 en deux parties, car j'ai constaté que beaucoup lisaient le guide d'achat mais pas forcément la partie 1. J'ai laissé les anciens sujets (partie [1](https://www.reddit.com/r/france/comments/ebdgh8/guide_moniteurs_12_r%C3%A9solutiond%C3%A9finition_type_de/) et [2](https://www.reddit.com/r/france/comments/ebtwr7/guide_moniteurs_22_guide_dachat_selon_budget_et/)) pour que vous puissiez bénéficier des commentaires de l'époque.
 
 [Les autres guides d'achat](https://www.reddit.com/r/france/search?q=guide+author%3Achuckmauricefacts+flair%3Ascience&restrict_sr=on&sort=relevance&t=all)
 
@@ -70,15 +70,15 @@ Je vous fais grâce de la science, retenez que c'est des **grilles de cellules �
 
 * **IPS :** (In-Plane Switching) : les meilleures sur la fidélité colorimétrique, les temps de réponse et les angles de vision. Elles ont cependant un contraste inférieur aux dalles VA, et sont plus sujettes aux fuites de lumière (backlight bleed). Pour jouer et travailler, c'est le meilleur des deux mondes.
 
-* **OLED :** (Organic Light-Emitting Diode) : contrairement aux autres dalles qui utilisent des cristaux liquides, une dalle OLED est une grille de diodes microscopiques qui émettent leur propre lumière. Pour l'instant restreinte aux TV haut de gamme, smartphones et certains laptops ou écrans hors de prix, la technologie OLED est onéreuse mais promet de nombreux avantages : noirs parfaits, basse conso, pas de fuite de lumière... On espère juste que les problèmes de [burn-in](https://www.youtube.com/watch?v=hWrFEU_605g) seront réglés.
+* **OLED :** (Organic Light-Emitting Diode) : contrairement aux autres dalles à cristaux liquides, une dalle OLED est une grille de diodes microscopiques qui émettent leur propre lumière. Pour l'instant restreinte aux TV haut de gamme, smartphones et certains laptops ou écrans hors de prix, la technologie OLED est onéreuse mais promet de nombreux avantages : noirs parfaits, basse conso, pas de fuite de lumière... On espère juste que les problèmes de [burn-in](https://www.youtube.com/watch?v=hWrFEU_605g) seront réglés.
 
 **Tableau récapitulatif :**
 
 | **Dalle** | **Taux de contraste** | **Rendu des couleurs** | **Rapidité** | **Angles de vision** | **Prix**  |
-|-----------|------------|-------------|----------------|------------|-----------|
-| TN        | Moyen      | Moyen       | Excellent      | Mauvais    | Abordable |
-| VA        | Bon        | Bon         | Moyen          | Moyen      | Abordable |
-| IPS       | Moyen      | Bon         | Excellent      | Excellent  | Elevé     |
+|-----------|------------|-------------|----------------|------------|------------|
+| TN        | Moyen      | Moyen       | Excellent      | Mauvais    | Abordable  |
+| VA        | Bon        | Bon         | Moyen          | Moyen      | Abordable  |
+| IPS       | Moyen      | Bon         | Excellent      | Excellent  | Elevé      |
 | OLED      | Excellent  | Excellent   | Excellent      | Excellent  | Prohibitif |
 
 [Explication des différentes technologies avec vues au microscope](https://tftcentral.co.uk/articles/panel_technologies).
@@ -88,7 +88,7 @@ Je vous fais grâce de la science, retenez que c'est des **grilles de cellules �
 
 ## Performance
 
-Ce que j'ai résumé sous le terme "rapidité" ou "performance" jusqu'ici : les paramètres à prendre en compte pour du gaming :
+Les paramètres à prendre en compte pour du gaming :
 
 * **Fréquence de rafraichissement (en Hertz) :** le nombre de fois que l'image peut être actualisée en une seconde. 60-75Hz pour de la bureautique, 120-170Hz pour du gaming, éventuellement 240Hz+ pour le gaming compétitif. 
 
@@ -122,9 +122,9 @@ Ici, le RGB ce n'est pas des bandes de LED sur l'écran, mais la fidélité colo
 
 Malgré l'évolution des technologies de dalles, il reste des défauts présents sur les dalles LCD haute fréquence qu'on peine encore à corriger. Certaines dépendent un peu d'une "lotterie de la dalle", donc je n'ai pas de conseils pour les éviter, mais sachez que ça existe, et que si vous tombez dessus vous pouvez utiliser votre droit de rétractation (mais pas forcément la garantie) :
 
-* **[Backlight bleed](https://www.displayninja.com/what-is-backlight-bleed/)** : fuites de lumières sur les bordures de l'écran, souvent signe d'un mauvais contrôle qualité. Exemple entre un [bon](https://imgur.com/a/WDHHL1r) et un [très mauvais](https://imgur.com/a/n8Merv3) élève (deux écrans que j'ai possédé).
+* **[Backlight bleed :](https://www.displayninja.com/what-is-backlight-bleed/)** fuites de lumières sur les bordures de l'écran, souvent signe d'un mauvais contrôle qualité. Exemple entre un [bon](https://imgur.com/a/WDHHL1r) et un [très mauvais](https://imgur.com/a/n8Merv3) élève (deux écrans que j'ai possédé).
 
-* **[IPS glow](https://www.limscave.com/reduce-ips-glow)** : couleurs diffuses aux coins de l'écran, qui varient avec l'angle de vision (contrairement au backlight bleed). Beaucoup moins gênant que ce dernier, mais également signe d'un mauvais contrôle qualité.
+* **[IPS glow :](https://www.limscave.com/reduce-ips-glow)** couleurs diffuses aux coins de l'écran, qui varient avec l'angle de vision (contrairement au backlight bleed). Beaucoup moins gênant que ce dernier, mais également signe d'un mauvais contrôle qualité.
 
 * **[Ghosting/black smearing :](https://www.youtube.com/watch?v=D6g85vqdK2A)** une trace sombre laissée par les objets en mouvement, causée par un temps de transition trop élevé entre des couleurs sombres (temps de réponse). Typiquement présent sur les dalles VA.
 
@@ -141,13 +141,13 @@ Ces catégories reflètent mon état d'esprit sur le marché des moniteurs, les 
 
 A petit budget, si vous privilégiez la performance à la taille. Faire des dalles performantes à cette taille c'est un procédé maitrisé, donc la plupart des écrans IPS à 200€ se valent et cette gamme a peu évolué ces dernières années. J'ai donc fait une sélection basée sur les fonctionnalités et l'ergonomie.
 
-* **Dell S2421HS** (75Hz)- [150€](https://www.dell.com/fr-fr/shop/%C3%A9cran-dell-24-pouces-s2421hs/apd/210-axkq/moniteurs-et-accessoires-de-moniteur) - [review](https://www.youtube.com/watch?v=26uXBJeZ4PI) - Un moniteur pour de la bureautique ou du multimédia, fiable à petit prix. Le pied réglable est une fonctionnalité qui devrait être présente sur tout les moniteurs en entreprise.
+* **Dell S2421HS** (75Hz)- [170€](https://www.dell.com/fr-fr/shop/%C3%A9cran-dell-24-pouces-s2421hs/apd/210-axkq/moniteurs-et-accessoires-de-moniteur) - [review](https://www.youtube.com/watch?v=26uXBJeZ4PI) - Un moniteur pour de la bureautique ou du multimédia, fiable à petit prix. Le pied réglable est une fonctionnalité qui devrait être présente sur tout les moniteurs en entreprise.
 
 * **ViewSonic XG2405** - [200€](https://fr.pcpartpicker.com/product/G9LwrH/viewsonic-xg2405-238-1920x1080-144-hz-monitor-xg2405) - [review](https://www.techporn.ph/review-viewsonic-xg2405-gaming-monitor/) - Un look qui ne plaira pas à tout le monde, mais tout les ajustements ergonomiques dont vous pouvez avoir besoin, et des performances excellentes.
 
 * **AOC 24G2(U)** - [200€](https://fr.pcpartpicker.com/product/PbpmP6/aoc-24g2ubk-240-1920x1080-144-hz-monitor-24g2ubk) - [review](https://pcmonitors.info/reviews/aoc-24g2u-24g2/) - Comme le XG2405, excellent rapport qualité/prix. Pour avoir vu les deux je dirais que le AOC a un meilleur contraste, mais a un peu plus d'IPS glow (même si c'est un peu la lotterie).
 
-Eventuellement intéressants en promo dans les 200-220€ : **[BenQ EX2510](https://www.youtube.com/watch?v=vByC1RfUJSo)**, **Asus VP249QGR**, **MSI G242**
+*Intéressant en promo dans les 200-220€ : **[BenQ EX2510](https://www.youtube.com/watch?v=vByC1RfUJSo)**, **Asus VP249QGR**, **MSI G242***
 
 
 ## Le sweet spot (jeu & création, 27"-32" QHD 144Hz+)
@@ -156,37 +156,40 @@ Le sweet spot pour les gamers et créatifs exigeants. Au départ limités à 144
 
 * **Gigabyte M27Q** - [320€](https://fr.pcpartpicker.com/product/k8GnTW/gigabyte-m27q-270-2560x1440-170-hz-monitor-m27q) - [review](https://www.rtings.com/monitor/reviews/gigabyte/m27q) - Attention : cet écran utilise un array de pixels BGR, affectant la clarté du texte. Recommandé uniquement pour du gaming grâce à son prix plancher. Dalle 170Hz performante, port USB Type-C et la killer feature : un switch KVM intégré ! Existe aussi en 32" (M32Q).
 
-* **Dell S2721DGFA** - [360€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-dell-27-s2721dgfa/apd/210-axrq/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/s2721dgf) - le meilleur moniteur de Dell, dalle LG overclockée à 165Hz et excellente qualité de fabrication. C'est le moniteur que j'ai acheté pour mon PC gaming, j'en suis très content ! **Meilleur rapport qualité/prix de sa catégorie**.
+* **Dell S2721DGFA** - [360€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-dell-27-s2721dgfa/apd/210-axrq/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/s2721dgf) - le meilleur moniteur de Dell, dalle LG nano-IPS overclockée à 165Hz, bonne connectique et excellente qualité de fabrication. **Meilleur rapport qualité/prix de sa catégorie**.
 
 * **LG 27GP850-B** - [400€](https://fr.pcpartpicker.com/product/WWcG3C/lg-27gp850-b-270-2560x1440-165-hz-monitor-27gp850-b) - [review](https://www.rtings.com/monitor/reviews/lg/27gp850-b) - Le nouveau flagship de LG, dont les dalles nano-IPS équipent une grande partie de cette sélection. Quelques petits avantages qui le placent au dessus du marché : le Black Frame Insertion, l'overclock à 180Hz et le support du DCI-P3 à 98%. A vous de voir si ça vaut la différence de prix. Existe en 32" (32GP850).
 
 * **MSI MAG274QRF-QD** - [500€](https://www.materiel.net/produit/202007270084.html) - [review](https://www.youtube.com/watch?v=i3X3yFh0-gE) - Avec une dalle d'AU Optronics qui rivalise en performance avec les nano-IPS de LG en proposant un contraste supérieur. Mais son prix reste assez élevé.
 
-Alternatives intéressantes en promotion : **[Acer Nitro XV272U](https://www.rtings.com/monitor/reviews/acer/nitro-xv272u-kvbmiiprzx)**, **[LG 27GN850-B](https://www.rtings.com/monitor/reviews/lg/27gn850-b)**
+
+*Intéressants en promo dans les 300-350€ : **[Acer Nitro XV272U](https://www.rtings.com/monitor/reviews/acer/nitro-xv272u-kvbmiiprzx)**, **[LG 27GN850-B](https://www.rtings.com/monitor/reviews/lg/27gn850-b)***
 
 
-## Push it to the limit (jeu compétitif, 24"-27" 240Hz+)
+* **Samsung Odyssey G7** - [650€](https://fr.pcpartpicker.com/product/L6zFf7/samsung-odyssey-g7-270-2560x1440-240-hz-monitor-lc27g75tqsuxen) - [review](https://www.rtings.com/monitor/reviews/samsung/odyssey-g7) - Le meilleur des deux mondes : basiquement le seul écran VA qui rivalise avec les IPS sur la colorimétrie et les temps de réponse. Son contraste supérieur le rends idéal pour les jeux sombres ou immersifs. Seul véritable soucis : la courbe des dalles VA, qui peut gêner surtout pour les utilisations créatives (distortion...). Existe en 27" ou 32".
 
-Quelques moniteurs IPS QHD 240Hz pointent le bout de leur nez, mais sont encore très chers (~750€) pour une différence de fréquence peu intéressante (180 vs 240Hz...), donc je vous recommande plus de rester sur du 24" 240Hz/280Hz (si la fréquence c'est vraiment important pour vous, pour l'e-sport) ou du 27" 144-180Hz (le reste des joueurs). Le Samsung G7 étant l'exception à la règle.
+
+
+## Push it to the limit (jeu compétitif, 24" 240Hz+)
+
+Certains joueurs e-sport préfèrent rester sur du 24" pour privilégier un champ de vision complet, et obtenir de meilleures performances en FHD. 
+
+Les moniteurs 27" 240Hz sont encore rares et chers, pour une différence de fréquence peu intéressante (180 vs 240Hz...), donc je vous recommande plus de rester sur du 24" 240Hz/280Hz (si la fréquence c'est vraiment important pour vous, pour l'e-sport) ou du 27" 144-180Hz (le reste des joueurs).
 
 * **Asus VG259QM** - [380€](https://fr.pcpartpicker.com/product/w4mFf7/asus-tuf-gaming-vg259qm-245-1920x1080-280-hz-monitor-vg259qm) - [review](https://www.rtings.com/monitor/reviews/asus/tuf-gaming-vg259qm) - Si le bump de fréquence à 280Hz sera peu intéressant, ses temps de réponse et le Black Frame Injection en font un écran de premier choix pour les joueurs compétitifs à budget serré, et dont le seul compromis qu'ils sont prêts à faire est la taille de l'écran.
 
-Alternatives intéressantes en promotion dans les 320-360€ : **[Dell AW2521HFA](https://www.rtings.com/monitor/reviews/dell/alienware-aw2521hf)**, **[MSI MAG251RX](https://www.youtube.com/watch?v=leLp6Qgc6X8)**
+* **Dell AW2521HFA** - [360€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-alienware-25-aw2521hfa/apd/210-axro/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/alienware-aw2521hf) - Un peu en dessous du VG259QM sur les performances, mais il gagne une meilleure qualité de construction et des angles de vision supérieurs. Vérifiez que le pied massif typique des Alienware tient sur votre bureau !
 
-* **Samsung Odyssey G7** - [650€](https://fr.pcpartpicker.com/product/L6zFf7/samsung-odyssey-g7-270-2560x1440-240-hz-monitor-lc27g75tqsuxen) - [review](https://www.rtings.com/monitor/reviews/samsung/odyssey-g7) - basiquement le seul écran VA qui rivalise avec les IPS sur la colorimétrie et la performance. Son contraste le rends également idéal pour les jeux sombres ou immersifs. Seul véritable soucis : la courbe des dalles VA, qui peut gêner surtout pour les utilisations créatives (distortion...). Existe en 27" ou 32". **Meilleur rapport qualité/prix de sa catégorie.**
+* **MSI MAG251RX** - [400](https://fr.pcpartpicker.com/product/nGhmP6/msi-optix-mag251rx-245-1920x1080-240-hz-monitor-optix-mag251rx) - [review](https://www.youtube.com/watch?v=leLp6Qgc6X8) - Un moniteur compétent mais encore un peu cher, qui brille par son anti-motion blur et un bon contraste pour un IPS. Pied un peu limitant (pas de rotation ou de pivot).
 
-Retirés :
-
-* **Dell Alienware AW2721D** - [750€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-alienware-27-aw2721d/apd/210-axnu/moniteurs-et-accessoires-de-moniteur) - [review 1](https://www.rtings.com/monitor/reviews/dell/alienware-aw2721d) ; [review 2](https://www.youtube.com/watch?v=ZH3-ep-SNNk) - Difficile à recommander car le Samsung G7 est moins cher et plus polyvalent. Éventuellement si vous voulez à la fois du 240Hz et des grands angles de vision, au détriment du contraste.
-
-* **Acer XB273U-GX** - [750€] - [review](https://www.rtings.com/monitor/reviews/acer/predator-xb273u-gxbmiipruzx) - Il gagne de peu la course grâce à son overclock à 270Hz et ses excellents temps de réponse, mais son prix reste assez élevé pour peu d'amélioration par rapport à la concurrence. Attention les gammes d'Acer sont très confuses et les modèles XB273U-GS ou XB273-GX sont des moniteurs totalement différents. Existe en 32" (XB323U-GX)
+*Intéressants en promo dans les 300-350€ : **Dell S2522HG**, **Viewsonic XG2431***
 
 
 ## Création professionnelle (1440p/4K 60Hz, couleurs fidèles)
 
-Notez que les écrans IPS "gaming" cités précédemment peuvent très bien contenir à des créatifs, vérifiez la fidélité des couleurs mais la plupart supportent au moins le sRGB. Le meilleur des deux mondes, je vous dis.
+Notez que les écrans IPS "gaming" cités précédemment peuvent très bien contenir à des créatifs, vérifiez la fidélité des couleurs mais la plupart couvrent le sRGB à 99%.
 
-Les programmeurs (à haut budget) peuvent être intéressés par des écrans 4K pour la netteté du texte. Même si ça sera difficile à justifier à son patron.
+Les programmeurs acharnés peuvent être intéressés par des écrans 4K pour la netteté du texte. Même si ça sera difficile à justifier à son patron.
 
 * **LG 27UL650-W** - [300€](https://fr.pcpartpicker.com/product/DDJmP6/lg-27ul650-w-270-3840x2160-60-hz-monitor-27ul650-w) - [review](https://www.rtings.com/monitor/reviews/lg/27uk650-w) - Un moniteur qui accuse un peu son âge et peut devenir difficile à trouver, mais qui offre la 4K à prix plancher. Son remplacant (UL850-W) peut être une bonne alternative sur une promo.
 
@@ -197,9 +200,9 @@ Les programmeurs (à haut budget) peuvent être intéressés par des écrans 4K 
 
 ## Ultrawide mon amour (34-38" 21:9)
 
-Parfait pour la productivité, mais pour du gaming la compatibilité 21:9 dépendra beaucoup des jeux auquels vous jouez : ça variera de la simple déformation d'image ou crop "propre" sur les jeux récents (pour ne pas donner un avantage en multi), à des barres noires sur les bords droits et gauche, et dans le pire des cas des jeux plus anciens qui ne tournent tout simplement pas en 21:9 et seront déformés.
+Parfait pour la productivité, mais pour du gaming la compatibilité 21:9 dépendra beaucoup des jeux auquels vous jouez : ça variera de la simple déformation d'image ou recadrage "propre" sur les jeux récents (pour ne pas donner un avantage en multi), à des barres noires sur les côtés, et dans le pire des cas des jeux plus anciens qui ne tournent tout simplement pas en 21:9 et seront déformés.
 
-L'ultrawide reste un marché de niche, le prix reste donc très élevé surtout depuis l'arrivée de modèles 38" et la quasi disparition des 60Hz. En plus il y a peu de modèles, donc j'ai 3 grosses recommandations selon le budget, et seulement quelques alternatives :
+L'ultrawide reste un marché de niche, le prix reste donc très élevé surtout depuis l'arrivée de modèles 38" et la quasi disparition des 60Hz. En plus il y a peu de modèles dispo, donc j'ai 3 grosses recommandations à 3 budgets différents, et seulement quelques alternatives :
 
 * **Dell S3422DWG** - [500€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-incurv%C3%A9-dell-34-s3422dwg/apd/210-azze/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/s3422dwg) - Malgré une ergonomie restrictive qui ne gênera pas trop pour un ultrawide, c'est l'écran VA le plus performant de cette sélection (meilleurs temps de réponse). Si vous avez un budget serré mais voulez absolument de l'ultrawide, le VA est un compromis acceptable.
 
@@ -215,11 +218,9 @@ L'ultrawide reste un marché de niche, le prix reste donc très élevé surtout 
 
 
 
-
-
 *****
 
-**Sources :**
+**Sources et outils :**
 
 [Sven.de - Calculateur de résolution (PPI)](https://www.sven.de/dpi/)
 
@@ -245,9 +246,7 @@ L'ultrawide reste un marché de niche, le prix reste donc très élevé surtout 
 
 [Hardware Unboxed - Best gaming monitors of 2021](https://www.youtube.com/watch?v=CEqQi6Ljq8g)
 
-[TFTCentral selector](https://www.tftcentral.co.uk/selector.htm)
-
-[Tableau non exhaustif des IPS 27" 144Hz](https://docs.google.com/spreadsheets/d/1Qpmp7R_Pk852TnObn-jn0r_J-ZyYdgMc48hco1DiiE0/edit#gid=0) relayé par /u/A_Neaunimes
+[TFTCentral Recommended Gaming Monitors](https://tftcentral.co.uk/recommendations/tftcentral-recommendations-list-gaming-monitors)
 
 [Monitor Hunter's fact sheet](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo)
 
@@ -256,10 +255,14 @@ L'ultrawide reste un marché de niche, le prix reste donc très élevé surtout 
 
 Notes sur le guide :
 
-* Pas ou peu d'écrans VA car 1) on commence à avoir des écrans IPS à prix similaire 2) les temps de réponse de la plupart des VA (et le ghosting/overshoot qui en résultent) les rendent moins intéressants pour le gaming. Eventuellement si vous voulez un excellent contraste au détriment des performances générales.
+* Pas ou peu d'écrans VA car 1) on commence à avoir des écrans IPS à prix similaire et 2) les temps de réponse de la plupart des VA (et le ghosting/overshoot qui en résultent) les rendent moins intéressants pour le gaming. Eventuellement si vous voulez un excellent contraste au détriment des performances générales.
 
-* Pas d'écran TN parce que c'est une technologie dépassée avec beaucoup de défauts, que l'IPS a remplacé. Faites juste gaffe à ne pas tomber accidentellement sur du TN, certains TN ayant des désignations assez proches d'autres écrans (ex : Dell S2719DGF vs S2721DGF).
+* Pas d'écran TN parce que c'est une technologie dépassée avec beaucoup de défauts, que l'IPS a remplacé. Faites juste gaffe à ne pas tomber accidentellement sur du TN, certains ayant des désignations assez proches d'autres écrans (ex : Dell S2719DGF vs S2721DGF).
 
-* Pas d'écran 4K 144Hz. Ca existe, mais je trouve que même en 2021 c'est un mauvais investissement car c'est encore très cher et qu'aucun GPU n'est capable de faire tourner les jeux récents en 4K 144Hz. J'ai eu de mauvaises expériences avec le local dimming également, techno encore inégale.
+* Pas d'écran 27" IPS 240Hz, certains [pointent le bout de leur nez](https://www.rtings.com/monitor/tools/table/71522), mais sont encore très chers (~750€) et peu intéressants par rapport à un bon 27" 180Hz. Le Samsung G7 mentionné étant l'exception à la règle.
 
-* Pour les possesseurs de PlayStation 5 qui voudraient un écran pour jouer sur leur bureau, méfiez-vous : les PS5 n'acceptent que des résolutions FHD ou 4K. **Il existe cependant des écrans capables de downscaler la 4K en QHD**, ce qui vous permet de jouer sur un 27" sans vous ruiner. Ils sont mentionnés dans la "Monitor Hunter's fact sheet" (*console ready*). Mon conseil est cependant de prendre un écran 4K 60Hz, la console n'étant pas vraiment capable de sortir plus d'images par seconde à cette résolution.
+* Pas d'écran 4K 144Hz. [Ça existe](https://www.rtings.com/monitor/tools/table/71523), mais je trouve que même en 2021 c'est un mauvais investissement car c'est encore très cher et qu'aucun GPU n'est capable de faire tourner les jeux récents en 4K 144Hz. Et le local dimming qui nous promettrait enfin de la "vraie HDR", est une techno encore inégale.
+
+* Pour les possesseurs de PlayStation 5 qui voudraient un écran pour jouer sur leur bureau, méfiez-vous : les PS5 n'acceptent que des résolutions FHD ou 4K. **Il existe cependant des écrans capables de downscaler la 4K en QHD**, ce qui vous permet de jouer sur un 27" sans vous ruiner. Ils sont mentionnés dans la "Monitor Hunter's fact sheet" (*console ready*). Mon conseil est cependant de prendre un écran 4K 60Hz, la console n'étant pas vraiment capable de sortir plus d'images par seconde à cette résolution. 
+
+* La nouvelle Xbox n'a pas ce problème et est compatible avec des résolutions FHD, QHD ou 4K.
