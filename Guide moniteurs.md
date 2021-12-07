@@ -1,4 +1,4 @@
-# Guide d'achat moniteurs (maj dec. 2021)
+# Guide d'achat moniteurs
 
 *****
 
@@ -173,7 +173,7 @@ Les moniteurs 27" 240Hz sont encore rares et chers, pour une différence de fré
 
 * **Dell AW2521HFA** - [360€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-alienware-25-aw2521hfa/apd/210-axro/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/alienware-aw2521hf) - Un peu en dessous du VG259QM sur les performances, mais il gagne une meilleure qualité de construction et des angles de vision supérieurs. Vérifiez que le pied massif typique des Alienware tient sur votre bureau !
 
-* **MSI MAG251RX** - [400](https://fr.pcpartpicker.com/product/nGhmP6/msi-optix-mag251rx-245-1920x1080-240-hz-monitor-optix-mag251rx) - [review](https://www.youtube.com/watch?v=leLp6Qgc6X8) - Un moniteur compétent mais encore un peu cher, qui brille par son anti-motion blur et un bon contraste pour un IPS. Pied un peu limitant (pas de rotation ou de pivot).
+* **MSI MAG251RX** - [400€](https://fr.pcpartpicker.com/product/nGhmP6/msi-optix-mag251rx-245-1920x1080-240-hz-monitor-optix-mag251rx) - [review](https://www.youtube.com/watch?v=leLp6Qgc6X8) - Un moniteur compétent mais encore un peu cher, qui brille par son anti-motion blur et un bon contraste pour un IPS. Pied un peu limitant (pas de rotation ou de pivot).
 
 *Intéressants en promo dans les 300-350€ : Dell S2522HG, Viewsonic XG2431*
 
