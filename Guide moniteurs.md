@@ -8,18 +8,15 @@ Vous voulez un écran pour Noël ? Ce guide remplace l'ancien guide moniteurs de
 
 [Les guides sur Github](https://github.com/chuckmd/mercredi_tech)
 
-## Quelle taille (et définition) choisir ?
+## Taille et définition
 
-En français courant on utilise souvent le terme "résolution" pour parler du nombre de pixels affichés à l'écran, mais on parle en fait de "définition" (en anglais : resolution, d'où l'erreur). Une résolution prends en compte la taille de l'écran. Exemple :
+Déjà on va commencer par une petite erreur de français : 
 
-* *1920 pixels horizontaux par 1080 pixels verticaux est une [définition](https://fr.wikipedia.org/wiki/D%C3%A9finition_d%27%C3%A9cran) (1920x1080/Full HD)*
+* La [définition](https://fr.wikipedia.org/wiki/D%C3%A9finition_d%27%C3%A9cran), c'est le nombre de pixels affichés à l'écran (appelée couremment à tort résolution). Ex : *1920x1080 pixels*.
 
-* *1920x1080 à 24" est une [résolution](https://fr.wikipedia.org/wiki/R%C3%A9solution_spatiale_des_images_matricielles) (92 pixels par inch ou ppi)*
+* La [résolution](https://fr.wikipedia.org/wiki/R%C3%A9solution_spatiale_des_images_matricielles), c'est la définition divisée par la taille de l'écran. Ex : *1920x1080 à 24" (92 pixels par inch ou ppi)*
 
-La principale caractéristiques d'un moniteur, c'est le nombre de pixels qu'il affiche. Et surtout à quel point on va pouvoir les distinguer.
-
-Tout ça c'est [standardisé évidemment](https://en.wikipedia.org/wiki/Graphics_display_resolution), voici les plus communes :
-
+Parlons d'abord de définitions. Tout ça c'est [standardisé évidemment](https://en.wikipedia.org/wiki/Graphics_display_resolution), voici les plus communes :
 
 | 16:9                 | Ultrawide (21:9)      |
 | -------------------- | --------------------- |
@@ -27,12 +24,9 @@ Tout ça c'est [standardisé évidemment](https://en.wikipedia.org/wiki/Graphics
 | 2560 x 1440 (QHD)    | 3440 x 1440 (UW-QHD)  |
 | 3840 x 2160 (4K UHD) | 3840 x 1600 (UW-QHD+) |
 
-Evidemment pour les joueurs, **plus la définition est élevée, plus la carte graphique doit travailler.** L'incrément n'est pas linéaire car les développeurs ont optimisé les drivers et les jeux, mais faire tourner un jeu en QHD ou en 4K sera nettement plus lourd qu'en FHD (mais sans solliciter plus le CPU).
+Evidemment pour les joueurs, **plus la définition est élevée, plus la carte graphique doit travailler.** L'incrément n'est pas linéaire grâce à différentes optimisations, mais faire tourner un jeu en QHD ou en 4K sera nettement plus lourd qu'en FHD (mais sans solliciter plus le CPU).
 
 > **Trigger warning sur la définition 2K :** ça ne veut rien dire, arrêtez de dire 2K pour dire QHD, c'est [une définition pour le mastering cinéma](https://videocide.com/glossary/dci-2k/) proche du FHD. Même les vendeurs s'y mettent maintenant, donc je me sens obligé de dire que ça signifie souvent **QHD**, mais c'est une erreur.
-
-
-
 
 ## Résolution (=définition/taille)
 
@@ -54,7 +48,7 @@ Pour la productivité, c'est génial car vous pourrez afficher plus d'éléments
 
 **Le scaling/HiDPI/Retina**
 
-Les définitions trop élevées, si on laisse l'affichage en 100% natif, rendent le texte et les éléments [trop petits](https://www.memesmonkey.com/images/memesmonkey/08/084f157e54694987ecb05a49eee33e86.jpeg) pour les lire correctement. Heureusement, on peut changer la mise à l'échelle (scaling) : x1.25, 1.50, 1.75, 2.00... L'idéal étant un facteur entier de x2 (HiDPI/Retina), car [doubler les pixels se fait proprement](https://medium.com/elementaryos/what-is-hidpi-and-why-does-it-matter-b024eabea20d) (4 pixels = 1 pixel HiDPI), alors qu'avec un facteur fractionnel va utiliser des algorithmes d'anti-aliasing pour tricher.
+Les définitions trop élevées, si on laisse l'affichage en 100% natif, rendent le texte et les éléments [trop petits](https://www.memesmonkey.com/images/memesmonkey/08/084f157e54694987ecb05a49eee33e86.jpeg) pour les lire correctement. Heureusement, on peut changer la mise à l'échelle (scaling) : x1.25, 1.50, 1.75, 2.00... L'idéal étant un facteur entier de x2 ou plus (HiDPI/Retina), car [doubler les pixels se fait proprement](https://medium.com/elementaryos/what-is-hidpi-and-why-does-it-matter-b024eabea20d) (4 pixels = 1 pixel HiDPI), alors qu'avec un facteur fractionnel va utiliser des algorithmes d'anti-aliasing pour tricher.
 
 Certaines applications peuvent être incompatibles avec le HiDPI et ne pas se mettre à l'échelle (ou être floues), même si ça devient rare. **Attention aussi si vous faites du multi-écran en mélangeant HiDPI et LoDPI**, c'est potentiellement foireux.
 
@@ -135,11 +129,11 @@ Malgré l'évolution des technologies de dalles, il reste des défauts présents
 
 # Quel écran acheter ?
 
-Ces catégories reflètent mon état d'esprit sur le marché des moniteurs, les omissions de certaines gammes sont volontaires, mais les différents guides que j'ai mis en lien à la fin vous permettront de combler les trous si besoin.
+Ces catégories reflètent mon état d'esprit sur le marché des moniteurs, les omissions de certaines gammes sont volontaires, mais les différents guides en fin de post vous permettront de combler les trous si besoin.
 
 ## C'est pas la taille qui compte (Entrée de gamme jeu/bureautique, 24" FHD)
 
-A petit budget, si vous privilégiez la performance à la taille. Faire des dalles performantes à cette taille c'est un procédé maitrisé, donc la plupart des écrans IPS à 200€ se valent et cette gamme a peu évolué ces dernières années. J'ai donc fait une sélection basée sur les fonctionnalités et l'ergonomie.
+A petit budget, privilégiez la performance à la taille pour le gaming. Faire des dalles performantes à cette taille c'est un procédé maitrisé, donc la plupart des écrans IPS à 200€ se valent et cette gamme a peu évolué ces dernières années. J'ai donc fait une sélection basée sur les fonctionnalités et l'ergonomie.
 
 * **Dell S2421HS** (75Hz)- [170€](https://www.dell.com/fr-fr/shop/%C3%A9cran-dell-24-pouces-s2421hs/apd/210-axkq/moniteurs-et-accessoires-de-moniteur) - [review](https://www.youtube.com/watch?v=26uXBJeZ4PI) - Un moniteur pour de la bureautique ou du multimédia, fiable à petit prix. Le pied réglable est une fonctionnalité qui devrait être présente sur tout les moniteurs en entreprise.
 
