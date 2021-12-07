@@ -1,4 +1,4 @@
-# Guide moniteurs 2021
+# Guide d'achat moniteurs (maj dec. 2021)
 
 *****
 
@@ -6,7 +6,7 @@ Vous voulez un écran pour Noël ? Ce guide remplace l'ancien guide moniteurs de
 
 [Les autres guides d'achat](https://www.reddit.com/r/france/search?q=guide+author%3Achuckmauricefacts+flair%3Ascience&restrict_sr=on&sort=relevance&t=all)
 
-[Les guides sur Github](https://github.com/chuckmd/mercredi_tech)
+[Les guides sur Github](https://github.com/chuckdisk/mercredi_tech)
 
 ## Taille et définition
 
@@ -24,7 +24,7 @@ Parlons d'abord de définitions. Tout ça c'est [standardisé évidemment](https
 | 2560 x 1440 (QHD)    | 3440 x 1440 (UW-QHD)  |
 | 3840 x 2160 (4K UHD) | 3840 x 1600 (UW-QHD+) |
 
-Evidemment pour les joueurs, **plus la définition est élevée, plus la carte graphique doit travailler.** L'incrément n'est pas linéaire grâce à différentes optimisations, mais faire tourner un jeu en QHD ou en 4K sera nettement plus lourd qu'en FHD (mais sans solliciter plus le CPU).
+Évidemment pour les joueurs, **plus la définition est élevée, plus la carte graphique doit travailler.** L'incrément n'est pas linéaire grâce à différentes optimisations, mais faire tourner un jeu en QHD ou en 4K sera nettement plus lourd qu'en FHD (mais sans solliciter plus le CPU).
 
 > **Trigger warning sur la définition 2K :** ça ne veut rien dire, arrêtez de dire 2K pour dire QHD, c'est [une définition pour le mastering cinéma](https://videocide.com/glossary/dci-2k/) proche du FHD. Même les vendeurs s'y mettent maintenant, donc je me sens obligé de dire que ça signifie souvent **QHD**, mais c'est une erreur.
 
@@ -32,7 +32,7 @@ Evidemment pour les joueurs, **plus la définition est élevée, plus la carte g
 
 Ce qui est important donc, c'est **la résolution**, le rapport entre la **taille de l'écran** et sa **définition** (en ppi, pixel par inch). De mon expérience, on ne distingue plus les pixels à partir d'un taux d'environ 100 ppi. A l'inverse, un taux de ppi trop élevé va rendre les éléments illisibles.
 
-Ca varie selon les gens et des dalles, ça dépends de facteurs différent comme votre acuité visuelle, le type de dalle, la distance oeil-écran, l'habitude ou tout simplement l'utilisation que vous faites de votre écran (un graphiste sera plus exigeant qu'un gamer sur ce point).
+Ça varie selon les gens et des dalles, ça dépends de facteurs différent comme votre acuité visuelle, le type de dalle, la distance oeil-écran, l'habitude ou tout simplement l'utilisation que vous faites de votre écran (un graphiste sera plus exigeant qu'un gamer sur ce point).
 
 En partant de ce postulat, on peut définir **les résolutions idéales pour un écran confortable :**
 
@@ -42,16 +42,15 @@ En partant de ce postulat, on peut définir **les résolutions idéales pour un 
 
 * 32" : 3840x2160 -> 129 ppi
 
+Un site pratique pour calculer la densité de pixels : **[sven.de/dpi](https://www.sven.de/dpi/)**
+
 L'augmentation de la définition permet également de profiter de plus de superficie sur son bureau pour afficher des fenêtes, ce qu'on appelle le *real estate*. Comparaison du nombre de fenêtres qu'on peut afficher sur ces 3 définitions : [FHD](https://imgur.com/3lxAmGi), [QHD](https://imgur.com/cBNLWFJ), [4K](https://imgur.com/1kH7ONC). 
 
 Pour la productivité, c'est génial car vous pourrez afficher plus d'éléments sur l'écran. Pour le gaming, l'image affichée aura toujours la même taille, c'est surtout une augmentation des détails (même si certains jeux permettent d'ajuster la taille de l'interface).
 
 **Le scaling/HiDPI/Retina**
 
-Les définitions trop élevées, si on laisse l'affichage en 100% natif, rendent le texte et les éléments [trop petits](https://www.memesmonkey.com/images/memesmonkey/08/084f157e54694987ecb05a49eee33e86.jpeg) pour les lire correctement. Heureusement, on peut changer la mise à l'échelle (scaling) : x1.25, 1.50, 1.75, 2.00... L'idéal étant un facteur entier de x2 ou plus (HiDPI/Retina), car [doubler les pixels se fait proprement](https://medium.com/elementaryos/what-is-hidpi-and-why-does-it-matter-b024eabea20d) (4 pixels = 1 pixel HiDPI), alors qu'avec un facteur fractionnel va utiliser des algorithmes d'anti-aliasing pour tricher.
-
-Certaines applications peuvent être incompatibles avec le HiDPI et ne pas se mettre à l'échelle (ou être floues), même si ça devient rare. **Attention aussi si vous faites du multi-écran en mélangeant HiDPI et LoDPI**, c'est potentiellement foireux.
-
+Les définitions trop élevées, si on laisse l'affichage en 100% natif, rendent le texte et les éléments [trop petits](https://www.memesmonkey.com/images/memesmonkey/08/084f157e54694987ecb05a49eee33e86.jpeg) pour les lire correctement. Heureusement, on peut changer la mise à l'échelle (scaling) : x1.25, 1.50, 1.75, 2.00... L'idéal étant un facteur entier de x2 ou plus (HiDPI/Retina), car [doubler les pixels se fait proprement](https://medium.com/elementaryos/what-is-hidpi-and-why-does-it-matter-b024eabea20d) (4 pixels = 1 pixel HiDPI), alors qu'avec un facteur fractionnel va utiliser des algorithmes d'anti-aliasing pour tricher. Attention : toutes les applications ne supportent pas le HiDPI.
 
 
 ## Technologies de dalle
@@ -141,7 +140,7 @@ A petit budget, privilégiez la performance à la taille pour le gaming. Faire d
 
 * **AOC 24G2(U)** - [200€](https://fr.pcpartpicker.com/product/PbpmP6/aoc-24g2ubk-240-1920x1080-144-hz-monitor-24g2ubk) - [review](https://pcmonitors.info/reviews/aoc-24g2u-24g2/) - Comme le XG2405, excellent rapport qualité/prix. Pour avoir vu les deux je dirais que le AOC a un meilleur contraste, mais a un peu plus d'IPS glow (même si c'est un peu la lotterie).
 
-*Intéressant en promo dans les 200-220€ : **[BenQ EX2510](https://www.youtube.com/watch?v=vByC1RfUJSo)**, **Asus VP249QGR**, **MSI G242***
+*Intéressant en promo dans les 200-220€ : [BenQ EX2510](https://www.youtube.com/watch?v=vByC1RfUJSo), Asus VP249QGR, MSI G242*
 
 
 ## Le sweet spot (jeu & création, 27"-32" QHD 144Hz+)
@@ -157,7 +156,7 @@ Le sweet spot pour les gamers et créatifs exigeants. Au départ limités à 144
 * **MSI MAG274QRF-QD** - [500€](https://www.materiel.net/produit/202007270084.html) - [review](https://www.youtube.com/watch?v=i3X3yFh0-gE) - Avec une dalle d'AU Optronics qui rivalise en performance avec les nano-IPS de LG en proposant un contraste supérieur. Mais son prix reste assez élevé.
 
 
-*Intéressants en promo dans les 300-350€ : **[Acer Nitro XV272U](https://www.rtings.com/monitor/reviews/acer/nitro-xv272u-kvbmiiprzx)**, **[LG 27GN850-B](https://www.rtings.com/monitor/reviews/lg/27gn850-b)***
+*Intéressants en promo dans les 300-350€ : [Acer Nitro XV272U](https://www.rtings.com/monitor/reviews/acer/nitro-xv272u-kvbmiiprzx), [LG 27GN850-B](https://www.rtings.com/monitor/reviews/lg/27gn850-b)*
 
 
 * **Samsung Odyssey G7** - [650€](https://fr.pcpartpicker.com/product/L6zFf7/samsung-odyssey-g7-270-2560x1440-240-hz-monitor-lc27g75tqsuxen) - [review](https://www.rtings.com/monitor/reviews/samsung/odyssey-g7) - Le meilleur des deux mondes : basiquement le seul écran VA qui rivalise avec les IPS sur la colorimétrie et les temps de réponse. Son contraste supérieur le rends idéal pour les jeux sombres ou immersifs. Seul véritable soucis : la courbe des dalles VA, qui peut gêner surtout pour les utilisations créatives (distortion...). Existe en 27" ou 32".
@@ -176,7 +175,7 @@ Les moniteurs 27" 240Hz sont encore rares et chers, pour une différence de fré
 
 * **MSI MAG251RX** - [400](https://fr.pcpartpicker.com/product/nGhmP6/msi-optix-mag251rx-245-1920x1080-240-hz-monitor-optix-mag251rx) - [review](https://www.youtube.com/watch?v=leLp6Qgc6X8) - Un moniteur compétent mais encore un peu cher, qui brille par son anti-motion blur et un bon contraste pour un IPS. Pied un peu limitant (pas de rotation ou de pivot).
 
-*Intéressants en promo dans les 300-350€ : **Dell S2522HG**, **Viewsonic XG2431***
+*Intéressants en promo dans les 300-350€ : Dell S2522HG, Viewsonic XG2431*
 
 
 ## Création professionnelle (1440p/4K 60Hz, couleurs fidèles)
@@ -200,23 +199,21 @@ L'ultrawide reste un marché de niche, le prix reste donc très élevé surtout 
 
 * **Dell S3422DWG** - [500€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-incurv%C3%A9-dell-34-s3422dwg/apd/210-azze/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/s3422dwg) - Malgré une ergonomie restrictive qui ne gênera pas trop pour un ultrawide, c'est l'écran VA le plus performant de cette sélection (meilleurs temps de réponse). Si vous avez un budget serré mais voulez absolument de l'ultrawide, le VA est un compromis acceptable.
 
-*Alternatives VA 34" intéressantes en promo : **[AOC CU34G2X](https://www.rtings.com/monitor/reviews/aoc/cu34g2x)**, **[Gigabyte G34WQC](https://www.rtings.com/monitor/reviews/gigabyte/g34wqc)***
+*Alternatives VA 34" intéressantes en promo : [AOC CU34G2X](https://www.rtings.com/monitor/reviews/aoc/cu34g2x), [Gigabyte G34WQC](https://www.rtings.com/monitor/reviews/gigabyte/g34wqc)*
 
 * **LG 34GN850-B** - [800€](https://fr.pcpartpicker.com/product/7Qn8TW/lg-34gn850-b-340-3440x1440-160-hz-monitor-34gn850-b) - [review](https://www.rtings.com/monitor/reviews/lg/34gn850-b) - Probablement celui que je prendrais si je devais choisir : on reste sur un tarif raisonnable, les temps de réponse sont excellents et il n'a vraiment de défauts. D'autres font mieux, mais pas à son prix.
 
-*Alternatives IPS 34" intéressantes en promo : **[LG 34GP950G-B](https://www.rtings.com/monitor/reviews/lg/34gp950g-b)***
+*Alternatives IPS 34" intéressantes en promo : [LG 34GP950G-B](https://www.rtings.com/monitor/reviews/lg/34gp950g-b)*
 
 * **LG 38GN950-B** - [1200€](https://fr.pcpartpicker.com/product/2srYcf/lg-ultragear-38gn950-b-380-3840x1600-160-hz-monitor-38gn950-b) - [review](https://www.rtings.com/monitor/reviews/lg/38gn950-b) - Le meilleur 38" de la sélection pour les gamers exigeants, mais avec le prix qui va avec. LG dispose d'un écran similaire orienté "bureau", le [38WN95C-W](https://www.rtings.com/monitor/reviews/lg/38wn95c-w) qui ajoute une connectique moderne et un pied un peu plus sobre, mais passe de 160 à 144Hz.
 
-*Alternatives IPS 38" intéressantes en promo : **[LG 38GL950G-B](https://www.rtings.com/monitor/reviews/lg/38gl950g-b)**, **[Dell AW3821DW](https://www.rtings.com/monitor/reviews/dell/alienware-aw3821dw)***
+*Alternatives IPS 38" intéressantes en promo : [LG 38GL950G-B](https://www.rtings.com/monitor/reviews/lg/38gl950g-b), [Dell AW3821DW](https://www.rtings.com/monitor/reviews/dell/alienware-aw3821dw)*
 
 
 
 *****
 
 **Sources et outils :**
-
-[Sven.de - Calculateur de résolution (PPI)](https://www.sven.de/dpi/)
 
 [UFO Test (ghosting/rafraichissement)](https://www.testufo.com/ghosting)
 
@@ -243,20 +240,3 @@ L'ultrawide reste un marché de niche, le prix reste donc très élevé surtout 
 [TFTCentral Recommended Gaming Monitors](https://tftcentral.co.uk/recommendations/tftcentral-recommendations-list-gaming-monitors)
 
 [Monitor Hunter's fact sheet](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo)
-
-
-*****
-
-Notes sur le guide :
-
-* Pas ou peu d'écrans VA car 1) on commence à avoir des écrans IPS à prix similaire et 2) les temps de réponse de la plupart des VA (et le ghosting/overshoot qui en résultent) les rendent moins intéressants pour le gaming. Eventuellement si vous voulez un excellent contraste au détriment des performances générales.
-
-* Pas d'écran TN parce que c'est une technologie dépassée avec beaucoup de défauts, que l'IPS a remplacé. Faites juste gaffe à ne pas tomber accidentellement sur du TN, certains ayant des désignations assez proches d'autres écrans (ex : Dell S2719DGF vs S2721DGF).
-
-* Pas d'écran 27" IPS 240Hz, certains [pointent le bout de leur nez](https://www.rtings.com/monitor/tools/table/71522), mais sont encore très chers (~750€) et peu intéressants par rapport à un bon 27" 180Hz. Le Samsung G7 mentionné étant l'exception à la règle.
-
-* Pas d'écran 4K 144Hz. [Ça existe](https://www.rtings.com/monitor/tools/table/71523), mais je trouve que même en 2021 c'est un mauvais investissement car c'est encore très cher et qu'aucun GPU n'est capable de faire tourner les jeux récents en 4K 144Hz. Et le local dimming qui nous promettrait enfin de la "vraie HDR", est une techno encore inégale.
-
-* Pour les possesseurs de PlayStation 5 qui voudraient un écran pour jouer sur leur bureau, méfiez-vous : les PS5 n'acceptent que des résolutions FHD ou 4K. **Il existe cependant des écrans capables de downscaler la 4K en QHD**, ce qui vous permet de jouer sur un 27" sans vous ruiner. Ils sont mentionnés dans la "Monitor Hunter's fact sheet" (*console ready*). Mon conseil est cependant de prendre un écran 4K 60Hz, la console n'étant pas vraiment capable de sortir plus d'images par seconde à cette résolution. 
-
-* La nouvelle Xbox n'a pas ce problème et est compatible avec des résolutions FHD, QHD ou 4K.
