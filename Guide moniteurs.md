@@ -8,6 +8,8 @@ Vous voulez un écran pour Noël ? Ce guide remplace l'ancien guide moniteurs de
 
 [Les guides sur Github](https://github.com/chuckdisk/mercredi_tech)
 
+*dernière maj juin 2022*
+
 ## Taille et définition
 
 Déjà on va commencer par une petite erreur de français : 
@@ -89,7 +91,7 @@ Les paramètres à prendre en compte pour du gaming :
 
 * **Input lag (en ms) :** le délai entre l'action que vous effectuez et son affichage à l'écran. [Plus d'infos ici](https://www.rtings.com/monitor/tests/inputs/input-lag).
 
-* **AdaptiveSync :** permet d'adapter la fréquence de rafraichissement aux fps que peut générer la carte graphique. Auparavant il fallait choisir entre Freesync (AMD, Intel) et G-Sync (Nvidia), maintenant la grande majorité des écrans récents sont Freesync + compatibles G-Sync.
+* **AdaptiveSync :** permet d'adapter la fréquence de rafraichissement aux fps que peut générer la carte graphique. Auparavant il fallait choisir entre Freesync (AMD, Intel) et G-Sync (Nvidia), maintenant **l'écrasante majorité des écrans récents sont Freesync + compatibles G-Sync.**
 
 
 Pour des performances optimales en jeu, on recherche évidemment l'écran avec la plus haute fréquence de rafraichissement et le plus bas input lag & temps de réponse possible. 
@@ -159,8 +161,6 @@ Le sweet spot pour les gamers et créatifs exigeants. Au départ limités à 144
 *Intéressants en promo dans les 300-350€ : [Acer Nitro XV272U](https://www.rtings.com/monitor/reviews/acer/nitro-xv272u-kvbmiiprzx), [LG 27GN850-B](https://www.rtings.com/monitor/reviews/lg/27gn850-b)*
 
 
-* **Samsung Odyssey G7** - [650€](https://fr.pcpartpicker.com/product/L6zFf7/samsung-odyssey-g7-270-2560x1440-240-hz-monitor-lc27g75tqsuxen) - [review](https://www.rtings.com/monitor/reviews/samsung/odyssey-g7) - Le meilleur des deux mondes : basiquement le seul écran VA qui rivalise avec les IPS sur la colorimétrie et les temps de réponse. Son contraste supérieur le rends idéal pour les jeux sombres ou immersifs. Seul véritable soucis : la courbe des dalles VA, qui peut gêner surtout pour les utilisations créatives (distortion...). Existe en 27" ou 32".
-
 
 
 ## Push it to the limit (jeu compétitif, 24" 240Hz+)
@@ -177,6 +177,8 @@ Les moniteurs 27" 240Hz sont encore rares et chers, pour une différence de fré
 
 *Intéressants en promo dans les 300-350€ : Dell S2522HG, Viewsonic XG2431*
 
+
+* **Samsung Odyssey G7** - [650€](https://fr.pcpartpicker.com/product/L6zFf7/samsung-odyssey-g7-270-2560x1440-240-hz-monitor-lc27g75tqsuxen) - [review](https://www.rtings.com/monitor/reviews/samsung/odyssey-g7) - Le meilleur des deux mondes : basiquement le seul écran VA qui rivalise avec les IPS sur la colorimétrie et les temps de réponse. Son contraste supérieur le rends idéal pour les jeux sombres ou immersifs. Seul véritable soucis : la courbe des dalles VA, qui peut gêner surtout pour les utilisations créatives (distortion...). Existe en 27" ou 32".
 
 ## Création professionnelle (1440p/4K 60Hz, couleurs fidèles)
 
@@ -209,9 +211,18 @@ L'ultrawide reste un marché de niche, le prix reste donc très élevé surtout 
 
 *Alternatives IPS 38" intéressantes en promo : [LG 38GL950G-B](https://www.rtings.com/monitor/reviews/lg/38gl950g-b), [Dell AW3821DW](https://www.rtings.com/monitor/reviews/dell/alienware-aw3821dw)*
 
+## Moniteurs spéciaux
 
+Dernières technologies, écrans excellents mais avec un défaut problématique, alternatives insolites... c'est ici.
+
+* **Samsung Odyssey G9** - [1300€](https://fr.pcpartpicker.com/product/WQvqqs/samsung-odyssey-g9-490-5120x1440-240-hz-monitor-lc49g95tssnxza) - [review](https://www.rtings.com/monitor/reviews/samsung/odyssey-g9) - Le G7, mais en "super-ultrawide" (49"), soit deux écrans 27" QHD côte à côte. C'est inutilisable sur la plupart des jeux qui seront trop déformés pour être appréciables, mais pour la productivité, si vous trouvez que les ultrawides standard c'est pas assez et que vous aimez tourner la tête, pourquoi pas. Samsung a aussi sorti le Neo G9 en Mini LED, mais la fiabilité laisse à désirer pour l'instant, et le prix de 1900€ est un ticket bien trop lourd à payer pour jouer les early-adopters.
+
+* **Dell AW3423DW** - [1300€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-incurv%C3%A9-qd-oled-alienware-34-aw3423dw/apd/210-bdsz/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/alienware-aw3423dw) - Le premier moniteur gaming OLED est un ultrawide ! Les couleurs sont excellentes et le contraste parfait, enfin de la HDR utilisable sur PC, mais il vient avec sa liste de défauts : potentiel burn-in (garantie burn-in 3 ans, mais c'est pas beaucoup), ventilateur actif audible dans une pièce silencieuse, un revêtement glossy très réflectif qui tends vers le gris même à l'arrêt, mais surtout le [edge fringing](https://www.reddit.com/r/ultrawidemasterrace/comments/tgo81f/the_achilles_heel_of_the_aw3423dw_the_aw3423dw/) causé par le layout triangulaire des pixels QD-OLED qui, si tout le monde ne le vois pas, peut être très gênant pour certains. C'est un produit pour les early-adopters que ces défauts ne gêneront pas, pour les autres on espère que les prochaines dalles QD-OLED de Samsung corrigeront ces défauts. [Review de HardwareUnboxed](https://www.youtube.com/watch?v=YleSuwK8vR4) qui rentre dans les détails.
+
+* **LG 42C2** - [1400€](https://www.iacono.fr/fr/26751-lg-oled42c26lb.html) - [review](https://www.rtings.com/monitor/reviews/lg/42-c2-oled) - Les qualités des dalles W-OLED de LG sont connues depuis longtemps par les amateurs de bonnes TV (dont moi avec ma fidèle 65CX), mais les TV étaient jusque là trop grandes pour être vraiment utilisables en lieu et place d'un moniteur. La nouvelle C2 en 42" rends enfin ça possible, sous réserve d'avoir un bureau profond et de coller la TV au mur. A vous les contrastes parfaits et les temps de réponse minimes. Reste le burn-in qui est toujours un problème, donc prenez vos précautions : cachez les barres d'outils et icônes, mettez des fonds d'écrans aléatoires et ne laissez jamais trop longtemps la même fenêtre affichée. 
 
 *****
+
 
 **Sources et outils :**
 
@@ -240,3 +251,5 @@ L'ultrawide reste un marché de niche, le prix reste donc très élevé surtout 
 [TFTCentral Recommended Gaming Monitors](https://tftcentral.co.uk/recommendations/tftcentral-recommendations-list-gaming-monitors)
 
 [Monitor Hunter's fact sheet](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo)
+
+[Monitors Enthousiasts recommandations](https://docs.google.com/spreadsheets/d/1wBV0U3a1XuP1yFLvs_Ald3FE1y45bVxtS2zBXixsGLs/)
