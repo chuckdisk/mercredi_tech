@@ -215,7 +215,7 @@ L'ultrawide reste un marché de niche, le prix reste donc très élevé surtout 
 
 Dernières technologies, écrans excellents mais avec un défaut problématique, alternatives insolites... c'est ici.
 
-* **Samsung Odyssey G9** - [1300€](https://fr.pcpartpicker.com/product/WQvqqs/samsung-odyssey-g9-490-5120x1440-240-hz-monitor-lc49g95tssnxza) - [review](https://www.rtings.com/monitor/reviews/samsung/odyssey-g9) - Le G7, mais en "super-ultrawide" (49"), soit deux écrans 27" QHD côte à côte. C'est inutilisable sur la plupart des jeux qui seront trop déformés pour être appréciables, mais pour la productivité, si vous trouvez que les ultrawides standard c'est pas assez et que vous aimez tourner la tête, pourquoi pas. Samsung a aussi sorti le Neo G9 en Mini LED, mais la fiabilité laisse à désirer pour l'instant, et le prix de 1900€ est un ticket bien trop lourd à payer pour jouer les early-adopters.
+* **Samsung Odyssey G9** - [1300€](https://fr.pcpartpicker.com/product/WQvqqs/samsung-odyssey-g9-490-5120x1440-240-hz-monitor-lc49g95tssnxza) - [review](https://www.rtings.com/monitor/reviews/samsung/odyssey-g9) - Le G7, mais en "super-ultrawide" (49"), soit deux écrans 27" QHD côte à côte. C'est inutilisable sur certains jeux qui seront trop déformés pour être appréciables, mais pour la productivité, si vous trouvez que les ultrawides standard c'est pas assez et que vous aimez tourner la tête, pourquoi pas. Samsung a aussi sorti le Neo G9 en Mini LED, mais la fiabilité laisse à désirer pour l'instant, et le prix de 1900€ est un ticket bien trop lourd à payer pour jouer les early-adopters.
 
 * **Dell AW3423DW** - [1300€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-incurv%C3%A9-qd-oled-alienware-34-aw3423dw/apd/210-bdsz/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/alienware-aw3423dw) - Le premier moniteur gaming OLED est un ultrawide ! Les couleurs sont excellentes et le contraste parfait, enfin de la HDR utilisable sur PC, mais il vient avec sa liste de défauts : potentiel burn-in (garantie burn-in 3 ans, mais c'est pas beaucoup), ventilateur actif audible dans une pièce silencieuse, un revêtement glossy très réflectif qui tends vers le gris même à l'arrêt, mais surtout le [edge fringing](https://www.reddit.com/r/ultrawidemasterrace/comments/tgo81f/the_achilles_heel_of_the_aw3423dw_the_aw3423dw/) causé par le layout triangulaire des pixels QD-OLED qui, si tout le monde ne le vois pas, peut être très gênant pour certains. C'est un produit pour les early-adopters que ces défauts ne gêneront pas, pour les autres on espère que les prochaines dalles QD-OLED de Samsung corrigeront ces défauts. [Review de HardwareUnboxed](https://www.youtube.com/watch?v=YleSuwK8vR4) qui rentre dans les détails.
 
@@ -246,7 +246,7 @@ Dernières technologies, écrans excellents mais avec un défaut problématique,
 
 [Rtings - Best Monitors For Photo Editing And Video Editing](https://www.rtings.com/monitor/reviews/best/by-usage/photo-editing-graphic-design)
 
-[Hardware Unboxed - Best gaming monitors of 2021](https://www.youtube.com/watch?v=CEqQi6Ljq8g)
+[Hardware Unboxed - Best gaming monitors of 2022](https://www.youtube.com/watch?v=15YOh8SqiRc)
 
 [TFTCentral Recommended Gaming Monitors](https://tftcentral.co.uk/recommendations/tftcentral-recommendations-list-gaming-monitors)
 
