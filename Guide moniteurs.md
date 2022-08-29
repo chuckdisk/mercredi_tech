@@ -1,14 +1,10 @@
-# Guide d'achat moniteurs
-
-*****
-
 Vous voulez un écran pour Noël ? Ce guide remplace l'ancien guide moniteurs de 2019 en deux parties, car j'ai constaté que beaucoup lisaient le guide d'achat mais pas forcément les explications techniques de la partie 1. J'ai laissé les anciens sujets (partie [1](https://www.reddit.com/r/france/comments/ebdgh8/guide_moniteurs_12_r%C3%A9solutiond%C3%A9finition_type_de/) et [2](https://www.reddit.com/r/france/comments/ebtwr7/guide_moniteurs_22_guide_dachat_selon_budget_et/)) pour que vous puissiez bénéficier des commentaires de l'époque.
 
 [Les autres guides d'achat](https://www.reddit.com/r/france/search?q=guide+author%3Achuckmauricefacts+flair%3Ascience&restrict_sr=on&sort=relevance&t=all)
 
 [Les guides sur Github](https://github.com/chuckdisk/mercredi_tech)
 
-*dernière maj juin 2022*
+*dernière maj sept. 2022*
 
 ## Taille et définition
 
@@ -130,7 +126,7 @@ Malgré l'évolution des technologies de dalles, il reste des défauts présents
 
 # Quel écran acheter ?
 
-Ces catégories reflètent mon état d'esprit sur le marché des moniteurs, les omissions de certaines gammes sont volontaires, mais les différents guides en fin de post vous permettront de combler les trous si besoin.
+Ces catégories reflètent mon état d'esprit sur le marché des moniteurs, les omissions de certaines gammes sont volontaires, mais les différents guides en fin de post vous permettront de combler les trous si besoin. Les prix mentionnés sont **les prix recommandés** par rapport aux écrans concurrents, si l'écran est plus cher que le prix que je donne il n'est plus compétitif. Si il est moins cher, c'est tout bonus. N'hésitez pas à regarder également les autres guides d'achat listés en fin de post.
 
 ## C'est pas la taille qui compte (Entrée de gamme jeu/bureautique, 24" FHD)
 
@@ -149,9 +145,9 @@ A petit budget, privilégiez la performance à la taille pour le gaming. Faire d
 
 Le sweet spot pour les gamers et créatifs exigeants. Au départ limités à 144Hz, ces écrans tendent de plus en plus vers les 170-180Hz au fur et à mesure que les technologies de fabrication de dalles évoluent.
 
-* **Gigabyte M27Q** - [320€](https://fr.pcpartpicker.com/product/k8GnTW/gigabyte-m27q-270-2560x1440-170-hz-monitor-m27q) - [review](https://www.rtings.com/monitor/reviews/gigabyte/m27q) - Attention : cet écran utilise un array de pixels BGR, affectant la clarté du texte. Recommandé uniquement pour du gaming grâce à son prix plancher. Dalle 170Hz performante, port USB Type-C et la killer feature : un switch KVM intégré ! Existe aussi en 32" (M32Q).
+* **HP X27q** - [320€](https://fr.pcpartpicker.com/product/cB3gXL/hp-x27q-270-2560x1440-165-hz-monitor-2v7u5aaabu) - [review](https://www.youtube.com/watch?v=PQoQMpkqOko) - Remplace le Gigabyte M27q comme option "best value QHD". Même dalle que le Dell mais avec un rétroéclairage différent, offrant des couleurs plus vibrantes. Potentiel dealbreaker pour certains : un revêtement anti-lumière bleue mais qui réduit légèrement la clarté.
 
-* **Dell S2721DGFA** - [360€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-dell-27-s2721dgfa/apd/210-axrq/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/s2721dgf) - le meilleur moniteur de Dell, dalle LG nano-IPS overclockée à 165Hz, bonne connectique et excellente qualité de fabrication. **Meilleur rapport qualité/prix de sa catégorie**.
+* **Dell S2721DGFA** - [350€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-dell-27-s2721dgfa/apd/210-axrq/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/s2721dgf) - le meilleur moniteur de Dell, dalle LG nano-IPS overclockée à 165Hz, bonne connectique et excellente qualité de fabrication. **Meilleur rapport qualité/prix de sa catégorie**.
 
 * **LG 27GP850-B** - [400€](https://fr.pcpartpicker.com/product/WWcG3C/lg-27gp850-b-270-2560x1440-165-hz-monitor-27gp850-b) - [review](https://www.rtings.com/monitor/reviews/lg/27gp850-b) - Le nouveau flagship de LG, dont les dalles nano-IPS équipent une grande partie de cette sélection. Quelques petits avantages qui le placent au dessus du marché : le Black Frame Insertion, l'overclock à 180Hz et le support du DCI-P3 à 98%. A vous de voir si ça vaut la différence de prix. Existe en 32" (32GP850).
 
@@ -188,7 +184,7 @@ Les programmeurs acharnés peuvent être intéressés par des écrans 4K pour la
 
 * **LG 27UL650-W** - [300€](https://fr.pcpartpicker.com/product/DDJmP6/lg-27ul650-w-270-3840x2160-60-hz-monitor-27ul650-w) - [review](https://www.rtings.com/monitor/reviews/lg/27uk650-w) - Un moniteur qui accuse un peu son âge et peut devenir difficile à trouver, mais qui offre la 4K à prix plancher. Son remplacant (UL850-W) peut être une bonne alternative sur une promo.
 
-* **Dell S2721QS** - [360€](https://www.dell.com/fr-fr/shop/%C3%A9cran-dell-27-pouces-uhd-4k-s2721qs/apd/210-axky/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/s2721qs) - Dell propose un moniteur 4K haute fidélité à un prix serré, qui rends basiquement obsolète toute sa gamme Ultrasharp (significativement plus chère) tant il est bon. Existe en 32" (S3221QS) mais c'est un VA. **Meilleur rapport qualité/prix de sa catégorie.**
+* **Dell S2721QS** - [330€](https://www.dell.com/fr-fr/shop/%C3%A9cran-dell-27-pouces-uhd-4k-s2721qs/apd/210-axky/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/s2721qs) - Dell propose un moniteur 4K haute fidélité à un prix serré, qui rends basiquement obsolète toute sa gamme Ultrasharp (significativement plus chère) tant il est bon. Existe en 32" (S3221QS) mais c'est un VA. **Meilleur rapport qualité/prix de sa catégorie.**
 
 * **ASUS ProArt Display PA278CV** - [450€](https://fr.pcpartpicker.com/product/MYTp99/asus-proart-display-pa278cv-270-2560x1440-75-hz-monitor-pa278cv) - [review](https://www.rtings.com/monitor/reviews/asus/proart-display-pa278cv) - Successeur du PA278QV. Globalement des couleurs aussi fidèles que le S2721QS, la 4K en moins. Surtout utile pour le port USB-C intégré, pouvant charger et servir de dock pour un PC portable.
 
