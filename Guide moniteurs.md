@@ -1,3 +1,5 @@
+# Guide d'achat moniteurs (v2)
+
 Vous voulez un écran pour Noël ? Ce guide remplace l'ancien guide moniteurs de 2019 en deux parties, car j'ai constaté que beaucoup lisaient le guide d'achat mais pas forcément les explications techniques de la partie 1. J'ai laissé les anciens sujets (partie [1](https://www.reddit.com/r/france/comments/ebdgh8/guide_moniteurs_12_r%C3%A9solutiond%C3%A9finition_type_de/) et [2](https://www.reddit.com/r/france/comments/ebtwr7/guide_moniteurs_22_guide_dachat_selon_budget_et/)) pour que vous puissiez bénéficier des commentaires de l'époque.
 
 [Les autres guides d'achat](https://www.reddit.com/r/france/search?q=guide+author%3Achuckmauricefacts+flair%3Ascience&restrict_sr=on&sort=relevance&t=all)
