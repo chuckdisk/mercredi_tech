@@ -239,6 +239,8 @@ Ces claviers demandent un gros temps d'adaptation mais peuvent réduire ou prév
 
 * [Forum Geekhack](https://geekhack.org/index.php) : reviews, group buys et bons plans 
 
+* [Keycaps Azerty](https://azertykeycap.github.io/) (merci /u/plaketdebeur)
+
 * Quelques boutiques en Europe et ailleurs : [liste HFR](https://forum.hardware.fr/hfr/HardwarePeripheriques/Clavier-Souris/unique-claviers-mecaniques-sujet_6902_1.htm#t71975), [liste Reddit](https://www.reddit.com/r/MechanicalKeyboards/wiki/recommendedsellers#wiki_european_resellers.__most_ship_eu_wide)
 
 
