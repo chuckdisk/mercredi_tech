@@ -10,6 +10,10 @@ Une fois n'est pas coutume, j'ai trouvé [un lexique plutôt exhaustif](https://
 
 [Les autres guides d'achat](https://www.reddit.com/r/france/search?q=guide+author%3Achuckmauricefacts+flair%3Ascience&restrict_sr=on&sort=relevance&t=all)
 
+[Les guides d'achat sur Github](https://github.com/chuckdisk/mercredi_tech)
+
+*[EDIT sept. 2022] De plus en plus de marques proposent des claviers hotswap, pour changer les switchs individuellement, j'ai donc remanié les catégories pour en intégrer quelques uns.*
+
 ## Les bases
 
 **Mécanique vs membrane ?**
@@ -44,9 +48,9 @@ Quel format choisir ? [Suivez le guide](https://keyboard.university/guides/what-
 
 ### Le layout
 
-Ça désigne la norme utilisée pour l'agencement des touches. Chaque pays ou région aura son layout, mais on va se concentrer sur celles accessibles aux français ou pays francophones.
+La norme utilisée pour l'agencement des touches. Chaque pays ou région aura son layout, mais on va se concentrer sur celles accessibles aux français ou pays francophones.
 
-**Layout physique** (touches physiquement différentes)
+**Layout physique** (touches physiquement différentes) :
 
 * **ANSI :** la norme américaine, utilisée par une écrasante majorité de claviers mécaniques. La touche entrée est une barre droite et la touche maj est plus large, prenant la place des chevrons <>.
 * **ISO :** la norme européenne, d'où dérive le ISO-FR (AZERTY) qu'on connait bien.
@@ -54,9 +58,9 @@ Quel format choisir ? [Suivez le guide](https://keyboard.university/guides/what-
 
 [Comparaison des 3 normes](https://upload.wikimedia.org/wikipedia/commons/7/74/Physical_keyboard_layouts_comparison_ANSI_ISO_JIS.png)
 
-La norme ANSI domine le marché, et la plupart des amateurs de claviers customs se tournent donc vers elle. Il y a quelques bons claviers disponibles en ISO, mais si vous voulez vraiment du très haut de gamme ou le maximum de possibilités, il faudra se tourner vers l'ANSI.
+La norme ANSI domine le marché, et la plupart des amateurs de claviers customs se tournent donc vers elle. Il y a quelques bons claviers disponibles en ISO, mais si vous voulez vraiment un maximum de possibilités, il faudra se tourner vers l'ANSI.
 
-**Layout logique** (comment sont attribuées les touches)
+**Layout logique** (comment sont attribuées les touches) :
 
 * **[ANSI-US](https://keyshorts.com/blogs/blog/44712961-how-to-identify-laptop-keyboard-localization#us-english)** : la disposition standard "QWERTY" américaine
 * **[ANSI-US International](https://commons.wikimedia.org/wiki/File:KB_US-International.svg)** : une variante du ANSI plus pratique pour taper en français notamment les caractères accentués
@@ -71,15 +75,27 @@ Notez qu'au sein du même layout physique rien n'empêche (comme seuls les marqu
 
 Le switch, c'est l'interrupteur (mécanique) présent sur chaque touche. C'est le principal responsable de la sensation de frappe sur un clavier. Il n'y a pas de mauvais type de switch, il faut donc choisir selon votre préférence.
 
-L'écrasante majorité des claviers mécaniques utilise des switchs **Cherry MX**, regroupés en 3 catégories :
+L'écrasante majorité des claviers mécaniques utilise des switchs **Cherry MX** ou leurs variantes (de chez **Gateron**, **Kaihl**...), regroupés en 3 catégories :
 
-* **Linéaires (red, black) :** pas de point d'activation ressenti, juste la force du ressort qui augmente de façon linéaire (d'où le nom) jusqu'en butée (bottom-out).
-* **Tactiles (brown, clear) :** point d'activation ressenti, mais aucun retour sonore.
-* **Clicky (blue) :** point d'activation ressenti + retour sonore bruyant.
+
+| Linéaires    | Tactiles       | Clicky        |
+| ------------ | -------------- | ------------- |
+| *Red, Black* | *Brown, Clear* | *Blue, Green* |
+| Pas de point d'activation ressenti, juste la force du ressort qui augmente de façon linéaire (d'où le nom) jusqu'en butée (bottom-out).    | Point d'activation ressenti, mais aucun retour sonore.   | Point d'activation ressenti + retour sonore bruyant. |
 
 Comment fonctionnent-t-ils ? [Une image animée vaut milles mots](https://linustechtips.com/uploads/monthly_2018_09/switches.gif.6b8707b7e5db72efaf080e318c041d8e.gif).
 
-D'autres constructeurs proposent des clones des Cherry MX, utilisant le même format mais avec des caractéristiques différentes ou une meilleure qualité de fabrication. On peut citer **Gateron** et **Kaihl** qui suivent globalement les mêmes dénominations par couleur que Cherry. D'autres fabricants comme **Durock**, **Zeal** ou encore **C^3** sont particulièrement populaires chez les enthousiastes, mais sont plus rares et il faudra soit se tourner vers des claviers customs/*hot-swappables* ou être prêt à [dessouder les switchs d'usine de son clavier](https://imgur.com/a/E2MmgQ0).
+Si les Cherry MX et leurs clones dominent le marché, d'autres fabricants offrent des switchs plus chers particulièrement populaires chez les enthousiastes. Ils sont rarement vendus avec un clavier donc il faudra soit se tourner vers des claviers customs/hotswap, soit être prêt à [dessouder les switchs d'usine de son clavier](https://imgur.com/a/E2MmgQ0).
+
+Quelques recommandations que j'ai pu glaner : 
+
+* **Linéaire :** Zeal Telio v2, JWK Cream, Gateron Black, Gateron Milky Yellow
+* **Tactile :** C^3 Equalz X Dragonfruit, MX Ergo Clear, Durock Koala/T1, Holy Panda, Boba U4s
+* **Clicky :** Outemu Phoenix, Kailh Box White/Jade/Navy, NovelKeys Sherbet
+* **Silencieux :** Aliaz Silent, Zeal Zilent, Gateron Silent Red/Black, Boba U4t
+
+Certains switchs existent en différents niveaux de dureté (force du ressort : 62g, 67g...). Il peut être difficile de choisir quoi prendre sans avoir testé, c'est pour quoi il existe des [switch testers](https://keygem.store/collections/switch-testers/products/switch-tester-3x3).
+
 
 Il existe enfin d'autres formats de switchs (Alps, Topre, IBM...), malheureusement incompatibles avec le format Cherry MX et qui nécessiteront donc des claviers et keycaps bien précis.
 
@@ -96,12 +112,10 @@ Pour choisir votre clavier, définissez vos critères précisément pour réduir
 * **Matériaux du clavier et des touches :** ABS, PBT, aluminium...
 * **Switchs :** tactiles, linéaires, clickys, silencieux...
 * **Rétroéclairage :** RGB/blanc/aucun...
-* **Fonctionnalités particulières :** switchs échangeables à chaud (hotswap), macros, repose-poignet, dial...
-* **Design :** coloris spécifique, thème...
+* **Fonctionnalités particulières :** hotswap, macros, repose-poignet, volume dial...
+* **Design :** uni, coloris spécifique, thème...
 
-*(Je vais surtout mentionner l'ANSI et l'ISO-FR dans le guide, mais si vous voulez d'autres layouts ISO (UK, DE, BE...) c'est au moins aussi facile à trouver que le FR)*
-
-### 15 à 50 €
+## Faible budget - 15 à 50 €
 
 Je déconseille l'achat d'un clavier mécanique à ce budget : économisez en prenant un clavier à membrane robuste et pas cher, et reportez l'achat.
 
@@ -112,35 +126,30 @@ Je déconseille l'achat d'un clavier mécanique à ce budget : économisez en pr
 | Cherry KC 6000 Slim | [40€](https://ledenicheur.fr/product.php?p=4796015) | Full-size | ISO-FR, ANSI | Un clavier à switch ciseaux [Cherry SX](https://deskthority.net/wiki/Cherry_SX), très résistants à l'usure.
 
 
+## Claviers mécaniques "prebuilt"
 
-
-### 100 à 170 €
+Des claviers assemblés et prêts à fonctionner, mais avec switchs soudés.
 
 | Modèle  	| Prix      | Format 	| Layout 	| Switchs | Remarques |
 |---	    |---	    |---	    |---	    |---	  |---	
-| Keychron                      | [$60-75](https://www.keychron.com/collections/keyboard) | Full, TKL, 75%, 65%... | ANSI, ISO-UK | Gateron/Gateron Low-profile | Un design reconnaissable, un tarif attractif, et des variantes pour tout les goûts. Pas de ISO-FR pour l'instant, mais des fonctionnalités rares à ce prix : switchs low-profile, hot-swappables, claviers sans-fil... Un favori des Mac-users. |
 | Vortex       | [$100-170](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=159)   | 78%, 75%, 60% réduits   | ANSI, ISO-UK, ISO-FR (rare)     | Cherry MX | Keycaps à profil DSA, couleurs sobres, ils se démarquent surtout pour leurs designs compacts aux touches resserrées au maximum. Pratique si vous voulez un pavé numérique sans l'encombrement qui va avec. |
 | Ducky One2 	                | [110-200€](https://www.ldlc.com/informatique/peripherique-pc/clavier/c4606/+ftxt-one-2+fb-C000035993.html?sort=1) | Full, TKL, 60% | ISO-FR, ANSI 	| Cherry MX | Pendant longtemps l'une des seules marques à proposer des claviers qualitatifs ISO-FR + touches PBT en France, Ducky a de nombreux designs différents sur 3 formats, et un tarif plancher de 110€ sur leurs modèles TKL. Niveau durabilité, rien à redire, mon [One2 TKL "Skyline"](https://imgur.com/GpkKGRa) est mon daily driver sans faillir depuis 2017. Exclusivité LDLC en France, les stocks sont aléatoires mais ils ont beaucoup de variantes. *Rétroéclairage blanc/RGB sur certains modèles.* |
-| NZXT Function 	                | [120-200€](https://nzxt.com/fr-FR/collection/keyboard) | Full, TKL, 75% | ISO-FR, ANSI  	| Gateron MX, **hotswap** | Disponible en prebuilt ou personnalisable via [le configurateur NZXT](https://nzxt.com/fr-FR/build/keyboard), le NZXT Function est un clavier hotswap très compétitif avec des switchs PBT hotswap et un design sobre plutôt sympa (surtout en blanc + touches noires). Rien de révolutionnaire mais c'est appréciable d'avoir autant d'options à ce prix. *Rétroéclairage RGB* |
-| GG Ironclad 	| [110-150€](https://designedby.gg/product/ironclad/)         | Full, TKL | ISO-FR | Gateron MX, **hotswap** | Une fois n'est pas coutume, une marque française entre dans la lice, avec un excellent rapport qualité-prix pour un modèle hotswap. Dispo en noir ou blanc, avec repose-poignet en option, et des touches en PBT "dye-sublimation" ou "doubleshot" (translucide). *Rétroéclairage RGB*. |
 | Varmilo	        | [$130-200](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=322)  | Full, TKL | ISO-FR (rare), ANSI 	| Cherry MX | Envie d'un clavier avec un schéma de couleurs original ? Avec des thèmes aussi variés que [les pandas](https://en.varmilo.com/keyboardproscenium/subject_product_detailed?subjectid=294), [l'opéra de Pékin](https://en.varmilo.com/keyboardproscenium/subject_product_detailed?subjectid=239), ou des [claviers plus sobres](https://en.varmilo.com/keyboardproscenium/subject_product_detailed?subjectid=255), il y a du choix et la qualité est au rendez-vous. Vous pouvez même personnaliser votre clavier sur [le site officiel](https://en.varmilo.com/keyboardproscenium/product_indexsubject?layout=80&model=Theme%20keyboard) (environ $50 de frais de port). *Rétroéclairage blanc sur certains modèles* |
-| Leopold        | [$110-150](https://mechanicalkeyboards.com/shop/index.php?pg=5&l=product_list&c=169&sortby=price:asc)   | Full, 1800, TKL, 65%    | ANSI | Cherry MX | On reste sur des switchs Cherry MX, mais les Leopold ont la meilleure qualité de fabrication que j'ai pu tester sur un *prebuilt*, tout simplement. C'est aussi une des seules marques à faire du format 1800 (TKL avec pavé numérique à la place du pavé directionnel) si ça vous intéresse. Leur seul défaut ? Uniquement disponibles en ANSI. |
-| Ducky One3 	                | [140-220€](https://www.ldlc.com/informatique/peripherique-pc/clavier/c4606/+ftxt-one3+fb-C000035993.html?sort=1) | Full, TKL, 60% | ISO-FR, ANSI 	| Cherry MX **hotswap** | La nouvelle gamme de Ducky se démarque avec des couleurs bariolées et leur nouvelle conception "Quack Mechanics" qui allie matériaux de qualité et isolation sonore pour une meilleure expérience de frappe. Bonus : les switchs hotswap, rarement vu à ce prix. La gamme va a terme remplacer les Ducky One2 mais peu de modèles sont actuellement disponibles en France donc les deux coéxistent. *Rétroéclairage RGB* |
-
-
-### 170 à 250 €
-
-| Modèle 	        | Prix 	| Format 	| Layout 	| Switchs | Remarques |
-|---	            |---	|---	|---	|---	|---	|
+| Leopold        | [$110-260](https://mechanicalkeyboards.com/shop/index.php?pg=5&l=product_list&c=169&sortby=price:asc)   | Full, 1800, TKL, 65%    | ANSI | Cherry MX, Topre 45g | Les claviers Leopold ont la meilleure qualité de fabrication que j'ai pu tester sur un *prebuilt*, tout simplement. C'est aussi une des seules marques à faire du format 1800 (TKL avec pavé numérique à la place du pavé directionnel) si ça vous intéresse. Pour les plus exigeants, ils proposent une gamme Topre à partir de $230. |
 | Realforce       | [$226-305](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=850&sortby=price:asc)   | Full, TKL   | ANSI     | Topre 45g/55g/variable | Les Topre sont des switchs électro-capacitifs à membrane, un hybride entre un switch mécanique et un *rubber-dome*. Le point d'actuation est très haut, le gros de la résistance est produit par le dôme en caoutchouc, et et le retour est fluide et plus rapide qu'un switch classique. Certains adorent, d'autres sont mitigés notamment à cause du coût élevé des claviers Topre. [Review vidéo des Topre et du Realforce R2](https://www.youtube.com/watch?v=ILFiqt2yOGg). | 
 | HHKB Professional 2    | [210€](https://www.amazon.fr/Happy-Hacking-Keyboard-Professional-Fabricant/dp/B07KFM9VQ3/)    | 60% réduit   | ANSI | Topre 45g | Un layout étrange, des marquages à peine visibles... Ne vous y trompez pas, ce clavier *made in Japan* difficile à apprivoiser est considéré par beaucoup comme la Rolls du typing avec ses switchs Topre et ses touches PBT. |
-| Leopold (Topre) | [$240-260](https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=169&sortby=price:desc) (6 premiers)   | 1800, 65%   | ANSI | Topre 45g/silent 45g | Seulement deux modèles dans des formats plus rares, mais on retrouve l'excellente qualité de fabrication et le PBT dye-sub typique des Leopold. |
 
+## Claviers "hotswap"
 
+Pas 100% sûr de quel switch choisir ? Vous voulez la possibilité d'en changer dans le futur ? Ne cherchez plus, les claviers hotswap vous permettent de remplacer les switchs en un coup de pince.
 
+| Modèle 	        | Prix 	| Format 	| Layout 	| Switchs de base | Remarques |
+|---	            |---	|---	|---	|---	|---	|
+| Keychron                      | [$60+](https://www.keychron.com/collections/keyboard) | Full, TKL, 75%, 65%... | ANSI, ISO-UK | Gateron/Gateron Low-profile | Un design reconnaissable, un tarif attractif, et des variantes pour tout les goûts. Pas de ISO-FR pour l'instant, mais des fonctionnalités rares à ce prix : switchs low-profile, rétroéclairage, mode sans-fil... Et les Mac users pourront enfin remplacer leur vieux clavier chicket inconfortable grâce au layout macOS. |
+| NZXT Function 	                | [120-200€](https://nzxt.com/fr-FR/collection/keyboard) | Full, TKL, 75% | ISO-FR, ANSI  	| Gateron MX | Disponible en prebuilt ou personnalisable via [le configurateur NZXT](https://nzxt.com/fr-FR/build/keyboard), le NZXT Function est un clavier hotswap très compétitif avec des switchs PBT hotswap et un design sobre plutôt sympa (surtout en blanc + touches noires). Rien de révolutionnaire mais c'est appréciable d'avoir autant d'options à ce prix. *Rétroéclairage RGB* |
+| GG Ironclad 	| [110-150€](https://designedby.gg/product/ironclad/)         | Full, TKL | ISO-FR | Gateron MX | Une fois n'est pas coutume, une marque française entre dans la lice, avec un excellent rapport qualité-prix pour un modèle hotswap. Dispo en noir ou blanc, avec repose-poignet en option, et des touches en PBT "dye-sublimation" ou "doubleshot" (translucide). *Rétroéclairage RGB*. |
+| Ducky One3 	                | [140-220€](https://www.ldlc.com/informatique/peripherique-pc/clavier/c4606/+ftxt-one3+fb-C000035993.html?sort=1) | Full, TKL, 60% | ISO-FR, ANSI 	| Cherry MX | La nouvelle gamme de Ducky se démarque avec des couleurs bariolées et leur nouvelle conception "Quack Mechanics" qui allie matériaux de qualité et isolation sonore pour une meilleure expérience de frappe. Bonus : les switchs hotswap, rarement vu à ce prix. La gamme va a terme remplacer les Ducky One2 mais peu de modèles sont actuellement disponibles en France donc les deux coéxistent. *Rétroéclairage RGB* |
 
-
-****
 
 ## Claviers customs
 
@@ -152,25 +161,13 @@ Les matériaux, la finition, la carte électronique, le [type de montage](https:
 
 * **Un choix de switchs élargi**
 
-Plus besoin de limiter ses options aux switchs vendus avec des *prebuilt*, vous êtes libres d'utiliser la myriade de switchs disponibles sur le marché et même de les mixer. Quelques recommandations que j'ai pu glaner : 
-
-* **Linéaire :** Zeal Telio v2, JWK Cream, Gateron Black, Gateron Milky Yellow
-* **Tactile :** C^3 Equalz X Dragonfruit, MX Ergo Clear, Durock Koala/T1, Holy Panda, Boba U4s
-* **Clicky :** Outemu Phoenix, Kailh Box White/Jade/Navy, NovelKeys Sherbet
-* **Silencieux :** Aliaz Silent, Zeal Zilent, Gateron Silent Red/Black, Boba U4t
-
-Certains switchs existent en différents niveaux de dureté (force du ressort : 62g, 67g...). Il peut être difficile de choisir quoi prendre sans avoir testé, c'est pour quoi il existe des [switch testers](https://keygem.store/collections/switch-testers/products/switch-tester-3x3).
-
+CF mes recommendations plus haut. **Attention :** s'ils arrivent en pièces détachées et vous permettent de choisir vos switchs, certains customs ne sont pas hotswap et nécessiteront de les souder.
 
 * **Les touches (keycaps)**
 
-Vous pourrez choisir entre différents matériaux (ABS, PBT...), la police d'écriture, le type de moulage (dye-sublimation, doubleshot...), la transparence des caractères pour le rétro-éclairage, et bien sûr un thème de couleur. Les keycaps les plus prisés se retrouvent souvent en [group buys](https://www.mechgroupbuys.com/) temporaires.
+Vous pourrez choisir entre différents matériaux (ABS, PBT...), le [profil](https://i.imgur.com/bkTCe9B.jpg) (OEM, Cherry, SA, DSA...), la police, le type de moulage (dye-sublimation, doubleshot...), et bien sûr un thème de couleur. Les keycaps les plus prisés se retrouvent souvent en [group buys](https://www.mechgroupbuys.com/) temporaires.
 
-Vérifiez aussi la compatibilité avec vos switchs, tout n'est pas prévu pour le format Cherry MX.
-
-* **Le profil des touches**
-
-La forme et l'angle des touches sur les différentes lignes. Les claviers prebuilt sont souvent en profil OEM ou Cherry, mais vous pouvez opter pour des profils différents : SA, DSA, XDA... [Cette image](https://i.imgur.com/bkTCe9B.jpg) montre les différents profils disponibles.
+Vérifiez aussi la compatibilité avec vos switchs, tout n'est pas compatible avec le format Cherry MX.
 
 * **Les stabilisateurs (stabs)**
 
@@ -182,20 +179,17 @@ Lubrifier ses switchs est un procédé fastidieux mais qui améliorera le son, l
 
 * **Le firmware**
 
-Le programme qui fait tourner le clavier. Si les fabricants de *prebuilt* conçoivent leur propre firmware, les claviers customs sont souvent compatibles avec des firmwares open-source, le plus populaire étant [QMK](https://qmk.fm/).
-
-
-### Quels claviers customs choisir ?
-
+Le programme qui fait tourner le clavier. Les claviers customs sont souvent compatibles avec des firmwares open-source, le plus populaire étant [QMK](https://qmk.fm/).
 
 Il m'est difficile de recommander des modèles, ça serait comme proposer un PC pré-monté alors qu'on peut choisir chacun des composants un à un (et j'en ai pas testé beaucoup). Mais j'ai sélectionné quelques barebones ou kits qui semblent de bonnes portes d'entrée : 
+
 
 
 | Modèle      | Prix                                    | Formats  | Remarques |
 | ----------- | --------------------------------------- | -------- | --------- |
 | Keychron Q series | [$140-200](https://www.keychron.com/collections/custom-keyboards) | Full, TKL, 75%, 65%...           | Après un Q1 75% très apprécié pour son excellent rapport qualité/prix, Keychron ne chôme pas et a sorti des layouts pour tout les goûts, même un [Alice](https://www.keychron.com/collections/custom-keyboards/products/keychron-q8-alice-layout-qmk-custom-mechanical-keyboard#). Ils se sont rapidement imposés comme LA porte d'entrée dans le monde du custom. Plaque et boitier en aluminium CNC, rétroéclairage RGB, compatibilité QMK, volume dial... que demande le peuple ? Existe en ANSI ou ISO, et vous pouvez le personnaliser sur le site de Keychron. [Review vidéo](https://www.youtube.com/watch?v=syS3EQcSK3E) |
 | KBDFans    | [120€+](https://kbdfans.com/collections)    | Full, TKL, 75%, 65%... | Disponibles en d'un kit DIY ou déjà assemblés, les claviers de KBDFans vous offrent pléthore d'options et des matériaux variés, même le bois. Stocks un peu aléatoires par contre. [Review vidéo du KBD67](https://www.youtube.com/watch?v=UBdjbIv_ebY) |
-| Glorious GMMK Pro    | [200€+](https://candykeys.com/product/gmmk-pro-iso) | 75%         | GMMK, c'est un peu le "configurateur de PC" du monde des claviers mécaniques. Vous ne savez pas quoi prendre et ne voulez pas vous prendre la tête ? Le [kit configurable](https://www.pcgamingrace.com/pages/configurator?color=white) de de GMMK offre un haut niveau de customisation et des fonctionnalités chères aux passionnés (large choix de switchs, gasket mount, isolation sonore, switchs hot-swappables...). Pas le moins cher cependant. [Review vidéo](https://www.youtube.com/watch?v=hS4czKl7WpQ). |
+| Glorious GMMK Pro    | [200€+](https://candykeys.com/product/gmmk-pro-iso) | 75%         | GMMK, c'est un peu le "configurateur de PC" du monde des claviers mécaniques. Vous avez un gros budget et voulez vous simplifier la vie ? Le [kit configurable](https://www.pcgamingrace.com/pages/configurator?color=white) de de GMMK offre un haut niveau de customisation et des fonctionnalités chères aux passionnés (large choix de switchs, gasket mount, isolation sonore, switchs hot-swappables...). Pas le moins cher cependant. [Review vidéo](https://www.youtube.com/watch?v=hS4czKl7WpQ). |
 | Faites-le vous même | €€€ | Ce que vous voulez | Farfouillez les différents forums, salons de discussion et boutiques pour concevoir votre clavier sur-mesure. Les communautés de hobbyistes des claviers sont souvent accueillantes et vous aideront à trouver chaussure à votre pied. |
 
 
