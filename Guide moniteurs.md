@@ -1,12 +1,10 @@
-# Guide d'achat moniteurs (v2)
-
-Vous voulez un écran pour Noël ? Ce guide remplace l'ancien guide moniteurs de 2019 en deux parties, car j'ai constaté que beaucoup lisaient le guide d'achat mais pas forcément les explications techniques de la partie 1. J'ai laissé les anciens sujets (partie [1](https://www.reddit.com/r/france/comments/ebdgh8/guide_moniteurs_12_r%C3%A9solutiond%C3%A9finition_type_de/) et [2](https://www.reddit.com/r/france/comments/ebtwr7/guide_moniteurs_22_guide_dachat_selon_budget_et/)) pour que vous puissiez bénéficier des commentaires de l'époque.
+Ce guide remplace l'ancien guide moniteurs de 2019 en deux parties, car j'ai constaté que beaucoup lisaient le guide d'achat mais pas forcément les explications techniques de la partie 1. J'ai laissé les anciens posts : (partie [1](https://www.reddit.com/r/france/comments/ebdgh8/guide_moniteurs_12_r%C3%A9solutiond%C3%A9finition_type_de/) et [2](https://www.reddit.com/r/france/comments/ebtwr7/guide_moniteurs_22_guide_dachat_selon_budget_et/))
 
 [Les autres guides d'achat](https://www.reddit.com/r/france/search?q=guide+author%3Achuckmauricefacts+flair%3Ascience&restrict_sr=on&sort=relevance&t=all)
 
 [Les guides sur Github](https://github.com/chuckdisk/mercredi_tech)
 
-*dernière maj sept. 2022*
+*dernière maj fev. 2023*
 
 ## Taille et définition
 
@@ -63,7 +61,7 @@ Je vous fais grâce de la science, retenez que c'est des **grilles de cellules �
 
 * **IPS :** (In-Plane Switching) : les meilleures sur la fidélité colorimétrique, les temps de réponse et les angles de vision. Elles ont cependant un contraste inférieur aux dalles VA, et sont plus sujettes aux fuites de lumière (backlight bleed). Pour jouer et travailler, c'est le meilleur des deux mondes.
 
-* **OLED :** (Organic Light-Emitting Diode) : contrairement aux autres dalles à cristaux liquides, une dalle OLED est une grille de diodes microscopiques qui émettent leur propre lumière. Pour l'instant restreinte aux TV haut de gamme, smartphones et certains laptops ou écrans hors de prix, la technologie OLED est onéreuse mais promet de nombreux avantages : noirs parfaits, basse conso, pas de fuite de lumière... On espère juste que les problèmes de [burn-in](https://www.youtube.com/watch?v=hWrFEU_605g) seront réglés.
+* **OLED :** (Organic Light-Emitting Diode) : contrairement aux autres dalles à cristaux liquides, une dalle OLED est une grille de diodes microscopiques qui émettent leur propre lumière. La technologie OLED est émergente et donc onéreuse mais promet de nombreux avantages : noirs parfaits, basse conso, pas de fuite de lumière... On espère juste que les problèmes de [burn-in](https://www.youtube.com/watch?v=hWrFEU_605g) seront réglés.
 
 **Tableau récapitulatif :**
 
@@ -147,7 +145,7 @@ A petit budget, privilégiez la performance à la taille pour le gaming. Faire d
 
 Le sweet spot pour les gamers et créatifs exigeants. Au départ limités à 144Hz, ces écrans tendent de plus en plus vers les 170-180Hz au fur et à mesure que les technologies de fabrication de dalles évoluent.
 
-* **HP X27q** - [320€](https://fr.pcpartpicker.com/product/cB3gXL/hp-x27q-270-2560x1440-165-hz-monitor-2v7u5aaabu) - [review](https://www.youtube.com/watch?v=PQoQMpkqOko) - Remplace le Gigabyte M27q comme option "best value QHD". Même dalle que le Dell mais avec un rétroéclairage différent, offrant des couleurs plus vibrantes. Potentiel dealbreaker pour certains : un revêtement anti-lumière bleue mais qui réduit légèrement la clarté.
+* **HP X27q** - [320€](https://fr.pcpartpicker.com/product/cB3gXL/hp-x27q-270-2560x1440-165-hz-monitor-2v7u5aaabu) - [review](https://www.rtings.com/monitor/reviews/hp/x27q) - Remplace le Gigabyte M27q comme option "best value QHD". Même dalle que le Dell mais avec un rétroéclairage différent, offrant des couleurs plus vibrantes. Potentiel dealbreaker pour certains : un revêtement anti-lumière bleue mais qui réduit légèrement la clarté.
 
 * **Dell S2721DGFA** - [350€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-dell-27-s2721dgfa/apd/210-axrq/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/s2721dgf) - le meilleur moniteur de Dell, dalle LG nano-IPS overclockée à 165Hz, bonne connectique et excellente qualité de fabrication. **Meilleur rapport qualité/prix de sa catégorie**.
 
@@ -156,7 +154,7 @@ Le sweet spot pour les gamers et créatifs exigeants. Au départ limités à 144
 * **MSI MAG274QRF-QD** - [500€](https://www.materiel.net/produit/202007270084.html) - [review](https://www.youtube.com/watch?v=i3X3yFh0-gE) - Avec une dalle d'AU Optronics qui rivalise en performance avec les nano-IPS de LG en proposant un contraste supérieur. Mais son prix reste assez élevé.
 
 
-*Intéressants en promo dans les 300-350€ : [Acer Nitro XV272U](https://www.rtings.com/monitor/reviews/acer/nitro-xv272u-kvbmiiprzx), [LG 27GN850-B](https://www.rtings.com/monitor/reviews/lg/27gn850-b)*
+*Intéressants en promo dans les 300-350€ : [Acer Nitro XV272U](https://www.rtings.com/monitor/reviews/acer/nitro-xv272u-kvbmiiprzx), [LG 27GN850-B](https://www.rtings.com/monitor/reviews/lg/27gn850-b), [MSI Optix G273QF](https://www.rtings.com/monitor/reviews/msi/optix-g273qf) + pied*
 
 
 
@@ -215,7 +213,7 @@ Dernières technologies, écrans excellents mais avec un défaut problématique,
 
 * **Samsung Odyssey G9** - [1300€](https://fr.pcpartpicker.com/product/WQvqqs/samsung-odyssey-g9-490-5120x1440-240-hz-monitor-lc49g95tssnxza) - [review](https://www.rtings.com/monitor/reviews/samsung/odyssey-g9) - Le G7, mais en "super-ultrawide" (49"), soit deux écrans 27" QHD côte à côte. C'est inutilisable sur certains jeux qui seront trop déformés pour être appréciables, mais pour la productivité, si vous trouvez que les ultrawides standard c'est pas assez et que vous aimez tourner la tête, pourquoi pas. Samsung a aussi sorti le Neo G9 en Mini LED, mais la fiabilité laisse à désirer pour l'instant, et le prix de 1900€ est un ticket bien trop lourd à payer pour jouer les early-adopters.
 
-* **Dell AW3423DW** - [1300€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-incurv%C3%A9-qd-oled-alienware-34-aw3423dw/apd/210-bdsz/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/alienware-aw3423dw) - Le premier moniteur gaming OLED est un ultrawide ! Les couleurs sont excellentes et le contraste parfait, enfin de la HDR utilisable sur PC, mais il vient avec sa liste de défauts : potentiel burn-in (garantie burn-in 3 ans, mais c'est pas beaucoup), ventilateur actif audible dans une pièce silencieuse, un revêtement glossy très réflectif qui tends vers le gris même à l'arrêt, mais surtout le [edge fringing](https://www.reddit.com/r/ultrawidemasterrace/comments/tgo81f/the_achilles_heel_of_the_aw3423dw_the_aw3423dw/) causé par le layout triangulaire des pixels QD-OLED qui, si tout le monde ne le vois pas, peut être très gênant pour certains. C'est un produit pour les early-adopters que ces défauts ne gêneront pas, pour les autres on espère que les prochaines dalles QD-OLED de Samsung corrigeront ces défauts. [Review de HardwareUnboxed](https://www.youtube.com/watch?v=YleSuwK8vR4) qui rentre dans les détails.
+* **Dell AW3423DWF** - [1100€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-incurv%C3%A9-qd-oled-alienware-34-aw3423dwf/apd/210-bfrq/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/alienware-aw3423dwf) - Le premier moniteur gaming OLED est un ultrawide ! Les couleurs sont excellentes et le contraste parfait, enfin de la HDR utilisable sur PC, mais il vient avec sa liste de défauts : potentiel burn-in (garantie burn-in 3 ans, mais c'est pas beaucoup), un revêtement glossy très réflectif qui tends vers le gris même à l'arrêt, mais surtout le [edge fringing](https://www.reddit.com/r/ultrawidemasterrace/comments/tgo81f/the_achilles_heel_of_the_aw3423dw_the_aw3423dw/) causé par le layout triangulaire des pixels QD-OLED qui, si tout le monde ne le vois pas, peut être très gênant pour certains. C'est un produit pour les early-adopters que ces défauts ne gêneront pas, pour les autres on espère que les prochaines dalles QD-OLED de Samsung corrigeront ces défauts. [Review de HardwareUnboxed](https://www.youtube.com/watch?v=YleSuwK8vR4) qui rentre dans les détails. Attention : n'achetez pas le AW3423DW (sans le F), c'est littéralement le même en moins bien et plus cher à cause du module G-Sync)
 
 * **LG 42C2** - [1400€](https://www.iacono.fr/fr/26751-lg-oled42c26lb.html) - [review](https://www.rtings.com/monitor/reviews/lg/42-c2-oled) - Les qualités des dalles W-OLED de LG sont connues depuis longtemps par les amateurs de bonnes TV (dont moi avec ma fidèle 65CX), mais les TV étaient jusque là trop grandes pour être vraiment utilisables en lieu et place d'un moniteur. La nouvelle C2 en 42" rends enfin ça possible, sous réserve d'avoir un bureau profond et de coller la TV au mur. A vous les contrastes parfaits et les temps de réponse minimes. Reste le burn-in qui est toujours un problème, donc prenez vos précautions : cachez les barres d'outils et icônes, mettez des fonds d'écrans aléatoires et ne laissez jamais trop longtemps la même fenêtre affichée. 
 
