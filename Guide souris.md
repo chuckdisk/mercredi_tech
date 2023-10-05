@@ -137,7 +137,7 @@ Indispensable pour ne pas ruiner les patins de la souris et décorer votre magni
 
 * [Razer Gigantus/Goliatus](https://www.ldlc.com/informatique/peripherique-pc/tapis-de-souris/c4614/+fb-C000000920+fv2525-15262.html)
 
-* [X-RayPad Aqua Control+](https://www.gamegear.fr/muismatten?brand%5B%5D=44) (mon tapis actuel)
+* [X-RayPad Aqua Control+](https://www.maxgaming.com/en/mousepads/aqua-control-plus-mousepad-black-xl) (mon tapis actuel)
 
 [Un guide qui va plus en profondeur](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww/edit#gid=0), si vous voulez choisir des tapis plus axés sur le contrôle ou la vitesse de la glisse.
 
