@@ -6,7 +6,7 @@ Ce guide remplace l'ancien guide moniteurs de 2019 en deux parties, car j'ai con
 
 [Les guides sur Github](https://github.com/chuckdisk/mercredi_tech)
 
-*dernière maj avril 2023*
+*dernière maj: décembre 2023*
 
 ## Taille et définition
 
@@ -59,7 +59,7 @@ Je vous fais grâce de la science, retenez que c'est des **grilles de cellules �
 
 * **TN :** (Twisted Nematic) : très populaire du temps où on n'arrivait pas à faire des dalles haute fréquence avec les autres technos, c'est maintenant une technologie obsolète qui a de gros défauts (faibles angles de visions, couleurs exécrables). A oublier pour tout nouvel achat.
 
-* **VA :** (Vertical Alingment) : des dalles qui brillent par leur contraste (enfin, je me comprends), mais pèchent sur les temps de réponse, induisant souvent du ghosting à haute fréquence. Les angles de vision et la fidélité colorimétrique sont également limités. Utile surtout si vous jouez à des jeux immersifs dans des environnements sombre (horreur, thriller...).
+* **VA :** (Vertical Alignment) : des dalles qui brillent par leur contraste (enfin, je me comprends), mais pèchent sur les temps de réponse, induisant souvent du ghosting à haute fréquence. Les angles de vision et la fidélité colorimétrique sont également limités. Utile surtout si vous jouez à des jeux immersifs dans des environnements sombre (horreur, thriller...).
 
 * **IPS :** (In-Plane Switching) : les meilleures sur la fidélité colorimétrique, les temps de réponse et les angles de vision. Elles ont cependant un contraste inférieur aux dalles VA, et sont plus sujettes aux fuites de lumière (backlight bleed). Pour jouer et travailler, c'est le meilleur des deux mondes.
 
@@ -128,59 +128,40 @@ Malgré l'évolution des technologies de dalles, il reste des défauts présents
 
 # Quel écran acheter ?
 
-Ces catégories reflètent mon état d'esprit sur le marché des moniteurs, les omissions de certaines gammes sont volontaires, mais les différents guides en fin de post vous permettront de combler les trous si besoin. Les prix mentionnés sont **les prix recommandés** par rapport aux écrans concurrents, si l'écran est plus cher que le prix que je donne il n'est plus compétitif. Si il est moins cher, c'est tout bonus. N'hésitez pas à regarder également les autres guides d'achat listés en fin de post.
+Ces catégories reflètent mon état d'esprit sur le marché des moniteurs, les omissions de certaines gammes sont volontaires, mais les guides en fin de post vous permettront de combler les trous si besoin. Les prix mentionnés sont **les prix recommandés** par rapport aux écrans concurrents, si l'écran est plus cher que le prix que je donne il n'est plus compétitif. Si il est moins cher, c'est tout bonus.
 
-## C'est pas la taille qui compte (Entrée de gamme jeu/bureautique, 24" FHD)
+## C'est pas la taille qui compte (jeu/bureautique, 24" FHD 144Hz+)
 
-A petit budget, privilégiez la performance à la taille pour le gaming. Faire des dalles performantes à cette taille c'est un procédé maitrisé, donc la plupart des écrans IPS à 200€ se valent et cette gamme a peu évolué ces dernières années. J'ai donc fait une sélection basée sur les fonctionnalités et l'ergonomie.
+A petit budget, privilégiez la performance à la taille. Le procédé est maitrisé :  la plupart des écrans IPS à 200€ se valent et la gamme a peu évolué ces dernières années. J'ai fais une sélection basée sur les fonctionnalités et l'ergonomie, mais il est possible de trouver des moniteurs aux performances similaires dans les 140-160€ en faisant des compromis là dessus.
 
-* **Dell S2421HS** (75Hz)- [160€](https://www.dell.com/fr-fr/shop/%C3%A9cran-dell-24-pouces-s2421hs/apd/210-axkq/moniteurs-et-accessoires-de-moniteur) - [review](https://www.youtube.com/watch?v=26uXBJeZ4PI) - Un moniteur pour de la bureautique ou du multimédia, fiable à petit prix. Le pied réglable est une fonctionnalité qui devrait être présente sur tout les moniteurs en entreprise.
+* **AOC 24G2SP(U)** - [190€](https://www.idealo.fr/prix/201920459/aoc-24g2spu.html) - [review](https://www.youtube.com/watch?v=cUoxwTWo7Fg) - Une évolution du très bon 24G2 avec une dalle 165Hz et un meilleur contraste. Très bon choix à moins de 200€. N'hésitez pas à rechercher les variantes (SP/AE...) qui auront une connectique et un pied plus limités, mais un prix encore moins élevé. Méfiez vous des variantes VA par contre.
 
-* **Iiyama GB2470HSU** [180€](https://www.idealo.fr/prix/200807257/iiyama-g-master-gb2470hsu-b1.html) - [review](https://www.youtube.com/watch?v=5TkyAf-8_Fg) - Un nom à coucher dehors mais un bon ticket d'entrée en dessous de 200€ pour les joueurs à budget serré.
+* **Gigabyte G24F-2** - [200€](https://www.idealo.fr/prix/201385408/gigabyte-g24f.html) - [review](https://www.youtube.com/watch?v=HlsGvOV-Y74) - Gigabyte pousse la fréquence jusqu'à 170Hz sans faire de compromis, ce qui en fait un des meilleurs choix à ce tarif, et une bonne alternative aux écrans "jeu compétitif" de 240Hz+.
 
-* **Gigabyte G24F** - [200€](https://www.idealo.fr/prix/201385408/gigabyte-g24f.html) - [review](https://www.youtube.com/watch?v=WE5y_8Wx_sI) - Gigabyte pousse la fréquence jusqu'à 170Hz sans faire de compromis, ce qui en fait un des meilleurs choix à ce tarif, et une bonne alternative aux écrans "jeu compétitif" de 240Hz+.
+* **Viewsonic XG2431** - [350€](https://www.idealo.fr/prix/202445879/viewsonic-xg2431.html) - [review](https://www.rtings.com/monitor/reviews/viewsonic/xg2431) - remplace le Dell AW2521HFA comme option "24" pour jeu compétitif". Son gros avantage : le backlight strobing customisable pour les joueurs les plus exigeants.
 
 *Intéressant en promo dans les 200-220€ : [BenQ EX2510](https://www.youtube.com/watch?v=vByC1RfUJSo), Asus VP249QGR, MSI G242*
 
 
-## Le sweet spot (jeu & création, 27"-32" QHD 144Hz+)
+## Le sweet spot (jeu/création, 27"-32" QHD 144Hz+)
 
 Le sweet spot pour les gamers et créatifs exigeants. Au départ limités à 144Hz, ces écrans tendent de plus en plus vers les 170-180Hz au fur et à mesure que les technologies de fabrication de dalles évoluent.
 
-* **HP X27q** - [320€](https://www.idealo.fr/prix/201490308/hp-x27q.html) - [review](https://www.rtings.com/monitor/reviews/hp/x27q) - Remplace le Gigabyte M27q comme option "best value QHD". Même dalle que le Dell mais avec un rétroéclairage différent, offrant des couleurs plus vibrantes. Potentiel dealbreaker pour certains : un revêtement anti-lumière bleue mais qui réduit légèrement la clarté.
+* **Dell G2724D** - [320€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-dell-27-g2724d/apd/210-bhtk/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/g2724d) - remplace le S2721DGF, on passe d'une dalle LG nano-IPS à une dalle AU Optronics, mais on gagne en contraste sans perdre en performance. La connectique est plus chiche : on perds le hub USB. **Meilleur rapport qualité/prix de sa catégorie**.
 
-* **Dell S2721DGFA** - [350€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-dell-27-s2721dgfa/apd/210-axrq/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/s2721dgf) - le meilleur moniteur de Dell, dalle LG nano-IPS overclockée à 165Hz, bonne connectique et excellente qualité de fabrication. **Meilleur rapport qualité/prix de sa catégorie**.
+* **LG 27GP850P-B** - [320€](https://www.ldlc.com/fiche/PB00547396.html) - [review](https://www.rtings.com/monitor/reviews/lg/27gp850-b) - Le flagship de LG, rafraichi pour 2023. Quelques petits avantages qui le placent au dessus du marché : le Black Frame Insertion, l'overclock à 180Hz et le support du DCI-P3 à 98%. A vous de voir si ça vaut la différence de prix. Existe en 32" (32GP850).
 
-* **LG 27GP850P-B** - [330€](https://www.ldlc.com/fiche/PB00547396.html) - [review](https://www.rtings.com/monitor/reviews/lg/27gp850-b) - Le flagship de LG, dont les dalles nano-IPS équipent une grande partie de cette sélection. Quelques petits avantages qui le placent au dessus du marché : le Black Frame Insertion, l'overclock à 180Hz et le support du DCI-P3 à 98%. A vous de voir si ça vaut la différence de prix. Existe en 32" (32GP850).
+* **MSI MAG274QPF-QD** - [350€](https://www.ldlc.com/fiche/PB00559818.html) - [review](https://www.youtube.com/watch?v=oZljHL_izEw) - Avec une dalle d'AU Optronics qui rivalise en performance avec les nano-IPS de LG en proposant un contraste supérieur. Refresh du QRF-QD qu'on ne trouve plus à des prix intéressants en France.
 
-* **MSI MAG274QRF-QD** - [450€](https://www.idealo.fr/prix/200961680/msi-optix-mag274qrf-qd.html) - Avec une dalle d'AU Optronics qui rivalise en performance avec les nano-IPS de LG en proposant un contraste supérieur. Mais son prix reste assez élevé.
-
-
-*Intéressants en promo dans les 300-350€ : [Acer Nitro XV272U](https://www.rtings.com/monitor/reviews/acer/nitro-xv272u-kvbmiiprzx), [LG 27GN850-B](https://www.rtings.com/monitor/reviews/lg/27gn850-b), [MSI Optix G273QF](https://www.rtings.com/monitor/reviews/msi/optix-g273qf) + pied*
+* **Gigabyte M27QX** - [500€](https://www.ldlc.com/fiche/PB00479459.html) - [review](https://www.rtings.com/monitor/reviews/gigabyte/m27q-x) - L'upgrade "jeu compétitif" 240Hz de cette catégorie, avec un switch KVM en bonus. Les temps de réponse sont excellents et il faudrait passer sur de l'OLED poura voir mieux. 
 
 
+*Intéressants en promo dans les 300€ ou moins : [Acer Nitro XV272U](https://www.rtings.com/monitor/reviews/acer/nitro-xv272u-kvbmiiprzx), [MSI Optix G273QF](https://www.rtings.com/monitor/reviews/msi/optix-g273qf) + pied*
 
-
-## Push it to the limit (jeu compétitif, 24" 240Hz+)
-
-Certains joueurs e-sport préfèrent rester sur du 24" pour privilégier un champ de vision complet, et obtenir de meilleures performances en FHD. 
-
-Les moniteurs 27" 240Hz sont encore rares et chers, pour une différence de fréquence peu intéressante (180 vs 240Hz...), donc je vous recommande plus de rester sur du 24" 240Hz/280Hz (si la fréquence c'est vraiment important pour vous, pour l'e-sport) ou du 27" 144-180Hz (le reste des joueurs).
-
-* **Asus VG259QM** - [380€](https://fr.pcpartpicker.com/product/w4mFf7/asus-tuf-gaming-vg259qm-245-1920x1080-280-hz-monitor-vg259qm) - [review](https://www.rtings.com/monitor/reviews/asus/tuf-gaming-vg259qm) - Si le bump de fréquence à 280Hz sera peu intéressant, ses temps de réponse et le Black Frame Injection en font un écran de premier choix pour les joueurs compétitifs à budget serré, et dont le seul compromis qu'ils sont prêts à faire est la taille de l'écran.
-
-* **Dell AW2521HFA** - [360€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-alienware-25-aw2521hfa/apd/210-axro/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/alienware-aw2521hf) - Un peu en dessous du VG259QM sur les performances, mais il gagne une meilleure qualité de construction et des angles de vision supérieurs. Vérifiez que le pied massif typique des Alienware tient sur votre bureau !
-
-* **MSI MAG251RX** - [400€](https://fr.pcpartpicker.com/product/nGhmP6/msi-optix-mag251rx-245-1920x1080-240-hz-monitor-optix-mag251rx) - [review](https://www.youtube.com/watch?v=leLp6Qgc6X8) - Un moniteur compétent mais encore un peu cher, qui brille par son anti-motion blur et un bon contraste pour un IPS. Pied un peu limitant (pas de rotation ou de pivot).
-
-*Intéressants en promo dans les 300-350€ : Dell S2522HG, Viewsonic XG2431*
-
-
-* **Samsung Odyssey G7** - [650€](https://fr.pcpartpicker.com/product/L6zFf7/samsung-odyssey-g7-270-2560x1440-240-hz-monitor-lc27g75tqsuxen) - [review](https://www.rtings.com/monitor/reviews/samsung/odyssey-g7) - Le meilleur des deux mondes : basiquement le seul écran VA qui rivalise avec les IPS sur la colorimétrie et les temps de réponse. Son contraste supérieur le rends idéal pour les jeux sombres ou immersifs. Seul véritable soucis : la courbe des dalles VA, qui peut gêner surtout pour les utilisations créatives (distortion...). Existe en 27" ou 32".
 
 ## Création professionnelle (4K 60Hz, couleurs fidèles)
 
-Je retire les écrans 1440p de cette catégorie, beaucoup d'écrans gaming 1440p sont assez bons pour un usage créatif et sont à des prix compétitifs. Les programmeurs acharnés peuvent être intéressés par des écrans 4K pour la netteté du texte. Même si ça sera difficile à justifier à son patron.
+Je retire les écrans 1440p de cette catégorie, beaucoup d'écrans gaming 1440p sont assez bons pour un usage créatif et sont à des prix compétitifs. Les programmeurs acharnés peuvent être intéressés par des écrans 4K pour la netteté du texte, même si ça sera difficile à justifier à son patron.
 
 * **LG LG 27UP850N-W** - [375€](https://www.idealo.fr/prix/202041305/lg-27up850n-w.html) - [review](https://monitornerds.com/lg-27up850-w-review/) - Surtout intéressant pour son prix plancher, mais si vous êtes exigeants sur les couleurs je rajouterais un peu pour prendre le Dell.
 
@@ -242,9 +223,7 @@ Dernières technologies, écrans excellents mais avec un défaut problématique,
 
 [Rtings - Best Monitors For Photo Editing And Video Editing](https://www.rtings.com/monitor/reviews/best/by-usage/photo-editing-graphic-design)
 
-[Hardware Unboxed - Best gaming monitors of 2022](https://www.youtube.com/watch?v=15YOh8SqiRc)
-
-[TFTCentral Recommended Gaming Monitors](https://tftcentral.co.uk/recommendations/tftcentral-recommendations-list-gaming-monitors)
+[Hardware Unboxed - Best gaming monitors of 2023](https://www.youtube.com/watch?v=Z8rJxJo3cfI)
 
 [Monitor Hunter's fact sheet](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo)
 
