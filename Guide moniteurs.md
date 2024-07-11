@@ -40,7 +40,7 @@ En partant de ce postulat, on peut définir **les résolutions idéales pour un 
 
 * 27" : 2560x1440 -> 108 ppi
 
-* 32" : 3840x2160 -> 129 ppi
+* 32" : 3840x2160 -> 138 ppi
 
 Un site pratique pour calculer la densité de pixels : **[sven.de/dpi](https://www.sven.de/dpi/)**
 
@@ -163,7 +163,7 @@ Le sweet spot pour les gamers et créatifs exigeants. Au départ limités à 144
 
 Je retire les écrans 1440p de cette catégorie, beaucoup d'écrans gaming 1440p sont assez bons pour un usage créatif et sont à des prix compétitifs. Les programmeurs acharnés peuvent être intéressés par des écrans 4K pour la netteté du texte, même si ça sera difficile à justifier à son patron.
 
-* **LG LG 27UP850N-W** - [375€](https://www.idealo.fr/prix/202041305/lg-27up850n-w.html) - [review](https://monitornerds.com/lg-27up850-w-review/) - Surtout intéressant pour son prix plancher, mais si vous êtes exigeants sur les couleurs je rajouterais un peu pour prendre le Dell.
+* **LG 27UP850N-W** - [375€](https://www.idealo.fr/prix/202041305/lg-27up850n-w.html) - [review](https://monitornerds.com/lg-27up850-w-review/) - Surtout intéressant pour son prix plancher, mais si vous êtes exigeants sur les couleurs je rajouterais un peu pour prendre le Dell.
 
 * **Dell S2722QC** - [430€](https://www.dell.com/fr-fr/shop/%C3%A9cran-dell-27-4k-uhd-usb-c-s2722qc/apd/210-bbrq/moniteurs-et-accessoires-de-moniteur) - [review](https://www.rtings.com/monitor/reviews/dell/s2722qc) - Dell propose un moniteur 4K haute fidélité, qui rends basiquement obsolète toute sa gamme Ultrasharp (significativement plus chère) tant il est bon. Si vous trouvez l'ancienne version ([S2721QS](https://www.rtings.com/monitor/reviews/dell/s2721qs)) pour 100€ moins cher, elle est également très intéressante.
 
