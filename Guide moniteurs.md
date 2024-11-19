@@ -1,6 +1,4 @@
-# Guide moniteurs 2024
-
-Ce guide remplace l'ancien guide moniteur, que vous pouvez retrouver [ici](https://www.reddit.com/r/france/comments/raut39/guide_dachat_moniteurs/). Changement de paradigme dans les moniteurs en 2024, où l'OLED domine la plupart des segments haut de gamme, les dalles VA deviennent enfin performantes et l'IPS est relégué à l'entrée de gamme pour le plus grand plaisir des joueurs et créatifs à petit budget. 
+Changement de paradigme dans les moniteurs en 2024, où l'OLED domine la plupart des segments haut de gamme, les dalles VA deviennent enfin performantes et l'IPS est relégué à l'entrée de gamme pour le plus grand plaisir des joueurs et créatifs à petit budget. Ce guide remplace l'ancien guide moniteur, que vous pouvez retrouver [ici](https://www.reddit.com/r/france/comments/raut39/guide_dachat_moniteurs/).
 
 [Les autres guides d'achat](https://www.reddit.com/r/france/search?q=guide+author%3Achuckmauricefacts+flair%3Ascience&restrict_sr=on&sort=relevance&t=all)
 
@@ -42,7 +40,7 @@ En partant de ce postulat, on peut définir **les résolutions idéales pour un 
 
 Un site pratique pour calculer la densité de pixels : **[sven.de/dpi](https://www.sven.de/dpi/)**
 
-L'augmentation de la définition permet également de profiter de plus de superficie sur son bureau pour afficher des fenêtes. Comparaison du nombre de fenêtres qu'on peut afficher sur ces 3 définitions : [FHD](https://imgur.com/3lxAmGi), [QHD](https://imgur.com/cBNLWFJ), [4K](https://imgur.com/1kH7ONC). 
+L'augmentation de la définition permet également de profiter de plus de superficie sur son bureau pour afficher des fenêtes. Comparaison du nombre de fenêtres qu'on peut afficher sur ces 3 définitions : [FHD](https://imgur.com/3lxAmGi), [QHD](https://imgur.com/cBNLWFJ), [4K](https://i.imgur.com/ey9etWR.png). 
 
 Pour la productivité, c'est génial car vous pourrez afficher plus d'éléments sur l'écran, ou utiliser le scaling (HiDPI, Retina) pour éviter d'avoir des éléments [trop petits](https://www.memesmonkey.com/images/memesmonkey/08/084f157e54694987ecb05a49eee33e86.jpeg). Pour le gaming, l'image affichée aura toujours la même taille, c'est surtout une augmentation des détails (même si certains jeux permettent d'ajuster la taille de l'interface).
 
@@ -112,7 +110,7 @@ Malgré l'évolution des technologies de dalles, il reste des défauts qu'on pei
 
 * **[Backlight bleed :](https://www.displayninja.com/what-is-backlight-bleed/)** fuites de lumières sur les bordures de l'écran, souvent signe d'un mauvais contrôle qualité. Exemple entre un [bon](https://imgur.com/a/WDHHL1r) et un [très mauvais](https://imgur.com/a/n8Merv3) élève (deux écrans que j'ai possédé).
 
-* **[IPS glow :](https://www.limscave.com/reduce-ips-glow)** couleurs diffuses aux coins de l'écran, qui varient avec l'angle de vision (contrairement au backlight bleed). Beaucoup moins gênant que ce dernier, mais également signe d'un mauvais contrôle qualité.
+* **[IPS glow :](https://www.youtube.com/watch?v=6TlOliiiwi8)** couleurs diffuses aux coins de l'écran, qui varient avec l'angle de vision (contrairement au backlight bleed). Beaucoup moins gênant que ce dernier, mais également signe d'un mauvais contrôle qualité.
 
 * **[Ghosting/black smearing :](https://www.youtube.com/watch?v=D6g85vqdK2A)** une trace sombre laissée par les objets en mouvement, causée par un temps de transition trop élevé entre des couleurs sombres (temps de réponse). Typiquement présent sur les dalles VA d'ancienne génération.
 
