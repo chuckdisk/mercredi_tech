@@ -142,7 +142,7 @@ Autrefois le sweet spot pour les gamers, les écrans IPS voient leur prix baisse
 * **[MSI G274QPX](https://www.youtube.com/watch?v=-9gB-b8PkQw)** - [330€](https://www.idealo.fr/prix/203311220/msi-g274qpx.html) - Pour les joueurs compétitifs qui veulent absolument un 240Hz, mais sans passer sur de l'OLED. Un bon all-rounder qui gagne un peu par défaut, les autres IPS 240Hz étant trop chers par rapport aux OLED.
 
 
-## OLED, le meilleur ami du gamer (jeu haute performance, 27-32" QHD/4K OLED 240Hz+)
+## OLED, le meilleur ami du gamer (jeu haute performance, 27" QHD OLED 240Hz+)
 
 On s'approche enfin de mon rêve de voir de l'OLED quasi partout, même si les prix restent très élevés. J'ai retardé l'écriture de ce guide pour être sûr que l'OLED convenait à une utilisation gaming quotidienne, je pense qu'on y est enfin, mais malheureusement pour bosser dessus avec des applications statiques, le burn-in est encore un problème.
 
@@ -162,9 +162,12 @@ En pratique, **les moniteurs partageant la même dalle ont souvent des performan
 
 * **[Dell AW2725DF](https://www.rtings.com/monitor/reviews/dell/alienware-aw2725df)** (QD-OLED QHD) - [700€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-qd-oled-360-hz-alienware-27-aw2725df/apd/210-blhh/moniteurs-et-accessoires-de-moniteur) - L'option compétitive : parfait pour jouer à 360Hz avec des temps de réponse imperceptibles. Alternatives avec la même dalle : [Gigabyte AORUS FO27Q3](https://www.rtings.com/monitor/reviews/asus/rog-strix-oled-xg27aqdmg), [MSI MPG 271QRX QD-OLED](https://www.rtings.com/monitor/reviews/msi/mpg-271qrx-qd-oled).
 
-
 * **[Asus ROG Swift PG27AQDP](https://www.rtings.com/monitor/reviews/asus/rog-swift-oled-pg27aqdp)** (WOLED QHD) - [1100€](https://www.ldlc.com/en/product/PB00631796.html) - L'option ultra-compétitive : si d'une manière ou d'une autre vous arrivez à pousser votre carte graphique à 1440p @ 480Hz sans que votre jeu ne ressemble à Cyberpunk sur PS4, on ne fait pas plus rapide que cet écran. Par contre il est aux prix des modèles 4K.
 
+
+## La 4K sinon rien (jeu haute performance, 32" 4K OLED 240Hz+)
+
+S'il reste difficile de faire tourner les jeux en 4K à des fréquences jouables en 2024, si vous avez une utilisation mixte multimédia/jeu, jouez à des jeux peu lourds ou prévoyez de claquer le PEL sur une future RTX 5080, les écrans 32" 4K OLED ne sont pas beaucoup plus chers que les 27" QHD
 
 * **[Samsung Odyssey G8 G80SD](https://www.rtings.com/monitor/reviews/samsung/odyssey-oled-g8-g80sd-s32dg80)** (QD-OLED 4K) - [1100€](https://www.samsung.com/fr/monitors/gaming/odyssey-oled-g8-g80sd-32-inch-240hz-oled-uhd-ls32dg800suxen/) - Les dalles Samsung de 3ème génération forment le gros de la gamme OLED 4K, mais si la plupart des fabricants l'utilisent avec un revêtement glossy, Samsung a fait le choix d'un revêtement mat. Alternatives avec la même dalle : [MSI MPG 321URX](https://www.rtings.com/monitor/reviews/msi/mpg-321urx-qd-oled), [Gigabyte FO32U2P](https://www.rtings.com/monitor/reviews/gigabyte/aorus-fo32u2p), [Asus ROG Swift PG32UCD**M**](https://www.rtings.com/monitor/reviews/asus/rog-swift-oled-pg32ucdm).
 
