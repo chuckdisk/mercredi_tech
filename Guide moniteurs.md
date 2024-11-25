@@ -74,17 +74,13 @@ Je vous fais grâce de la science, retenez que c'est des **grilles de cellules �
 
 Les paramètres à prendre en compte pour du jeu :
 
-* **Fréquence de rafraichissement (en Hertz) :** le nombre de fois que l'image peut être actualisée en une seconde. 60-75Hz pour de la bureautique, 120-180Hz pour du jeu, 240Hz+ pour le jeu compétitif. 
+* **Fréquence de rafraichissement (en Hertz) :** le nombre de fois que l'image peut être actualisée en une seconde. 60-75Hz pour de la bureautique, 120-180Hz pour du jeu, 240Hz+ pour le jeu compétitif. Le **Variable Refresh Rate** (VRR: Freesync ou G-Sync) permet d'adapter la fréquence de rafraichissement aux framerate que peut générer la carte graphique. L'écrasante majorité des écrans est Freesync ET compatible G-Sync.
 
 * **Temps de réponse (en ms) :** le temps qu'il faut pour qu'[un pixel change complètement de couleur](https://www.rtings.com/monitor/tests/motion/motion-blur-and-response-time). C'est le principal critère différenciateur pour les écrans gaming. Le marketing est parfois un peu menteur en utilisant des temps de réponse idéaux (transition parfaite blanc à noir...) là où le vrai temps de réponse moyen est plus élevé. Les dalles OLED excellent dans les temps de réponses imperceptibles.
 
 * **Input lag (en ms) :** le délai entre l'action que vous effectuez et son affichage à l'écran. [Plus d'infos ici](https://www.rtings.com/monitor/tests/inputs/input-lag).
 
-* **AdaptiveSync :** permet d'adapter la fréquence de rafraichissement aux fps que peut générer la carte graphique. Auparavant il fallait choisir entre Freesync (AMD, Intel) et G-Sync (Nvidia), maintenant l'écrasante majorité des écrans récents sont Freesync + compatibles G-Sync.
-
 Pour des performances optimales en jeu, on recherche évidemment l'écran avec la plus haute fréquence de rafraichissement et le plus bas input lag & temps de réponse possible. 
-
-En pratique, la différence entre 60 et 144Hz est assez impressionnante (surtout si on revient à 60Hz après). La différence entre 144Hz et 240Hz, en comparaison, l'est beaucoup moins, et même certains joueurs compétitifs se trompent en blind-test.
 
 [Comparaison de fréquence filmée en slow motion](https://www.youtube.com/watch?v=Q1cmhZs1P54).
 
@@ -97,30 +93,40 @@ Le contraste, la consistance et la fidélité colorimétrique, critères essenti
 * **Contraste et profondeur des noirs :** de nouvelles méthodes de rétroéclairage LCD (local dimming) permettent un contraste plus élevé. Les dalles OLED quand à elles sont dotées d'un contraste exceptionnel grâce au vrai noir atteint quand les pixels OLED sont éteints.
 
 * **Espaces colorimétriques :** on mesure en "pourcentage de couverture" la capacité d'un écran à afficher correctement une plage de couleur. Il en existe plusieurs : **sRGB** ou **Adobe RGB** pour la photo, **REC 709** ou **DCI-P3** pour la vidéo. La grande majorité des écrans IPS récents ont une excellente couverture du sRGB, mais pas forcément des autres espaces. [Explications](https://www.rtings.com/monitor/tests/picture-quality/color-gamut).
-  
+
 * **Calibrer sa dalle :** même les dalles d'excellente qualité nécessitent un calibrage pour être les plus fidèles possibles. Pour ceci, utilisez [une sonde de calibration](https://www.creativebloq.com/features/best-monitor-calibrator) et son logiciel associé. Aux dires des professionnels, il faut répéter l'opération tout les 2-3 mois. Le coût élevé de la sonde la réserve aux professionnels exigeants et aux entreprises.
 
-* **La HDR (High Dynamic Range) :** on utilise une plage de couleurs plus importante (codée sur 8 ou 10 bits, au lieu de 6 bits), ce qui donne une image aux couleurs plus vives. Malheureusement encore beaucoup de moniteurs utilisent de la "fausse" HDR (HDR 400 : l'écran est compatible avec un signal HDR, mais en pratique la dalle ne permet pas de l'afficher proprement). Si vous voulez profiter de la HDR sur vos jeux, il convient de choisir un moniteur avec du local-dimming performant, ou un OLED.
+* **La HDR (High Dynamic Range) :** on utilise une plage de couleurs plus importante (codée sur 8 ou 10 bits, au lieu de 6 bits), ce qui donne une image aux couleurs plus vives. Malheureusement celà nécessite un bon rétroéclairage adaptatif (local-dimming) ou une dalle OLED, certains moniteurs moins bien équipés prétendent donc à de la "fausse" HDR (HDR 400 : l'écran est compatible avec un signal HDR, mais en pratique la dalle ne permet pas de l'afficher proprement).
+
+
+## Dalles OLED
+
+L'OLED permet deux bonds technologiques par rapport aux dalles LCD : un contraste exceptionnel (le noir correspond à un pixel éteint) et des temps de réponse imperceptibles (en moyenne 0.3 ms vs 3-10 ms sur des bons LCD). Vu le peu d'amélioration de perception humaine des fréquences au delà de 200Hz, c'est un bénéfice beaucoup plus important que l'augmentation de fréquence, et je n'hésiterai pas à conseiller aux joueurs compétitifs un OLED 240Hz plutôt qu'un IPS 360/480Hz.
+
+Outre le prix, les deux critères de choix importants :
+
+* **QD-OLED vs WOLED** : la technologie de la dalle OLED. Samsung utilise des dalles QD-OLED, offrant un color gamut plus élevé, des couleurs plus vives et une luminosité générale plus élevée. LG préfère les dalles WOLED, avec une luminosité plus consistante et sans edge-fringing. Les deux ont des performances de jeu quasi identiques. [Comparaison WOLED/QD-OLED](https://www.youtube.com/watch?v=y4pHSaFo664)
+
+* **Glossy vs mat** : Les fabricants recouvrent leur dalle d'un revêtement brillant (glossy) ou mat. Le glossy permet une image plus précise, mais est plus sujet aux réflexions, là où le revêtement mat a une image plus graineuse mais des réflexions très atténuées. C'est un choix assez personnel, certains comme [HDTVTest](https://www.youtube.com/watch?v=rCPBgHkFQCQ&t=18s) ne jurent que par le glossy, d'autres comme [OptiumTech](https://www.youtube.com/watch?v=fkGtsatPGT4) préfèrent le mat. [Comparaison des deux revêtements](https://tftcentral.co.uk/articles/glossy-vs-matte-oled-panel-coatings-compared-including-the-asus-rog-strix-xg27aqdmg). Typiquement Samsung utilise un revêtement semi-glossy, et LG un mat anti-reflet, mais les deux fabricants ont déjà fait l'inverse.
+
 
 ## Défauts potentiels des écrans
 
-Malgré l'évolution des technologies de dalles, il reste des défauts qu'on peine encore à corriger. Certaines dépendent un peu d'une "lotterie de la dalle", donc je n'ai pas de conseils pour les éviter, mais sachez que ça existe, et que si vous tombez dessus vous pouvez utiliser votre droit de rétractation (mais pas forcément la garantie) :
+Malgré l'évolution des technologies de dalles, il reste des défauts qu'on peine encore à corriger. Essayez de voir à quel point votre écran y est sujet et si celà vous gêne avant achat (ou après achat dans la période de rétractation).
 
-**Sur les dalles IPS/VA :**
+* **[Backlight bleed](https://www.displayninja.com/what-is-backlight-bleed/)** (dalles IPS) : fuites de lumières sur les bordures de l'écran, souvent signe d'un mauvais contrôle qualité. Exemple entre un [bon](https://imgur.com/a/WDHHL1r) et un [très mauvais](https://imgur.com/a/n8Merv3) élève (deux écrans que j'ai possédé).
 
-* **[Backlight bleed :](https://www.displayninja.com/what-is-backlight-bleed/)** fuites de lumières sur les bordures de l'écran, souvent signe d'un mauvais contrôle qualité. Exemple entre un [bon](https://imgur.com/a/WDHHL1r) et un [très mauvais](https://imgur.com/a/n8Merv3) élève (deux écrans que j'ai possédé).
+* **[IPS glow](https://www.youtube.com/watch?v=6TlOliiiwi8)** (dalles IPS) : couleurs diffuses aux coins de l'écran, qui varient avec l'angle de vision (contrairement au backlight bleed). Beaucoup moins gênant que ce dernier, mais également signe d'un mauvais contrôle qualité.
 
-* **[IPS glow :](https://www.youtube.com/watch?v=6TlOliiiwi8)** couleurs diffuses aux coins de l'écran, qui varient avec l'angle de vision (contrairement au backlight bleed). Beaucoup moins gênant que ce dernier, mais également signe d'un mauvais contrôle qualité.
+* **[Ghosting/black smearing](https://www.youtube.com/watch?v=D6g85vqdK2A)** (dalles VA) : une trace sombre laissée par les objets en mouvement, causée par un temps de transition trop élevé entre des couleurs sombres (temps de réponse). Typiquement présent sur les dalles VA d'ancienne génération.
 
-* **[Ghosting/black smearing :](https://www.youtube.com/watch?v=D6g85vqdK2A)** une trace sombre laissée par les objets en mouvement, causée par un temps de transition trop élevé entre des couleurs sombres (temps de réponse). Typiquement présent sur les dalles VA d'ancienne génération.
+* **[Overshoot](https://blurbusters.com/faq/lcd-overdrive-artifacts/)** (dalles VA) : une couronne claire laissée par des objets en mouvement, causée par une exagération des corrections anti-ghosting (overdrive).
 
-* **[Overshoot :](https://blurbusters.com/faq/lcd-overdrive-artifacts/)** une couronne claire laissée par des objets en mouvement, causée par une exagération des corrections anti-ghosting (overdrive).
+* **[Edge fringing](https://www.reddit.com/r/ultrawidemasterrace/comments/un40e6/the_alienware_oled_aw3423dw_fringing_does_effect/?share_id=T19m4F-cd3noQvjka8PYR)** (dalles QD-OLED) : altérations de couleur causées par le [layout triangulaire](https://www.displayninja.com/wp-content/uploads/2023/05/Samsung-QD-OLED-2023-Panel-Subpixel-Layout.jpg) des subpixels QD-OLED. Ce n'est pas perceptible par tout le monde, et Samsung affine ses dalles à chaque itération, mais si vous voulez un écran QD-OLED essayez de tester avant d'acheter.
 
-**Sur les dalles OLED :**
+* **[Burn-in](https://www.youtube.com/watch?v=Pi37daETnf0)** (dalles OLED) : marquage de la dalle par une image statique si elle reste affichée trop longtemps. Respectez donc bien les précautions d'utilisation et évitez d'afficher des éléments fixes (barres d'outils, icônes sur le bureau, fond d'écran fixe, bordures de fenêtre...).
 
-* **[Edge fringing](https://www.reddit.com/r/ultrawidemasterrace/comments/un40e6/the_alienware_oled_aw3423dw_fringing_does_effect/?share_id=T19m4F-cd3noQvjka8PYR)**, altérations de couleur causées par le [layout triangulaire](https://www.displayninja.com/wp-content/uploads/2023/05/Samsung-QD-OLED-2023-Panel-Subpixel-Layout.jpg) des subpixels QD-OLED. Ce n'est pas perceptible par tout le monde, et Samsung affine ses dalles à chaque itération, mais si vous voulez un écran QD-OLED essayez de tester avant d'acheter.
-
-* **[Burn-in :](https://www.youtube.com/watch?v=wp87F6gczGw)** Les dalles OLED peuvent être marquées d'une image statique si elle reste affichée trop longtemps. Respectez donc bien les précautions d'utilisation et évitez d'afficher des éléments fixes (barres d'outils, icônes sur le bureau, fond d'écran fixe...).
+* **[VRR flicker](https://www.rtings.com/monitor/learn/research/vrr-flicker)** (dalles VA et OLED) : scintillement de la dalle sur quand elle change de plage de rafraichissement variable (VRR). Particulièrement distrayant sur les scènes sombres et les cinématiques de jeu. Si votre carte graphique a du mal à maintenir une fréquence de rafraichissement sur une plage précise, il est bénéfique de baisser la fréquence maximale pour obtenir une plage plus constante. 
 
 *******
 
@@ -142,17 +148,11 @@ Autrefois le sweet spot pour les gamers, les écrans IPS voient leur prix baisse
 
 ## OLED, le meilleur ami du gamer (jeu haute performance, 27" QHD OLED 240Hz+)
 
-On s'approche enfin de mon rêve de voir de l'OLED quasi partout, même si les prix restent très élevés. J'ai retardé l'écriture de ce guide pour être sûr que l'OLED convenait à une utilisation gaming quotidienne, je pense qu'on y est enfin, mais malheureusement pour bosser dessus avec des applications statiques, le burn-in est encore un problème.
+J'ai retardé l'écriture de ce guide pour être sûr que l'OLED convenait à une utilisation gaming quotidienne, je pense qu'on y est enfin : l'OLED s'impose comme le seul choix pertinent sur le haut de gamme, sauf si vous passez 100% du temps à travailler sur des logiciels statiques (le burn-in restant un problème sur cet usage).
 
-L'OLED permet deux bonds technologiques par rapport aux dalles LCD : un contraste exceptionnel (le noir correspond à un pixel éteint) et des temps de réponse imperceptibles (en moyenne 0.3 ms vs 3-10 ms sur des bons LCD). Vu le peu d'amélioration de perception des hautes fréquences au delà de 200Hz, c'est un bénéfice beaucoup plus important que l'augmentation de fréquence, et je n'hésiterai pas à conseiller aux joueurs compétitifs un écran OLED 240Hz plutôt qu'un IPS 360/480Hz.
+Rappel : vous avez le choix entre deux technologies de dalles (QD OLED vs WOLED), et un revêtement brillant vs mat. Faites bien vos recherches pour savoir ce qui vous conviendra le mieux.
 
-Outre le prix, le deux critères de choix importants :
-
-* **QD-OLED vs WOLED** : la technologie de la dalle OLED. Samsung utilise des dalles QD-OLED, offrant un color gamut plus élevé, des couleurs plus vives et une luminosité générale plus élevée. LG préfère les dalles WOLED, avec une luminosité plus consistante. Les deux ont des performances de jeu quasi identiques. [Comparaison WOLED/QD-OLED](https://www.youtube.com/watch?v=y4pHSaFo664)
-
-* **Glossy vs mat** : Les fabricants recouvrent leur dalle d'un revêtement glossy ou mat, qui peuvent respectivement être des dealbreakers selon votre usage. [Comparaison des deux revêtements](https://tftcentral.co.uk/articles/glossy-vs-matte-oled-panel-coatings-compared-including-the-asus-rog-strix-xg27aqdmg). Typiquement Samsung préfère le glossy et LG le mat, mais les deux fabricants ont déjà fait l'inverse.
-
-En pratique, **les moniteurs partageant la même dalle ont souvent des performances identiques**, j'ai donc choisi de donner la version la moins chère de chaque dalle pertinente, mais vous pouvez rarement vous tromper en prenant ceux partageant cette dalle si jamais vous les trouvez moins chers en promo. Notez que le revêtement peut être différent d'un modèle à l'autre, même sur la même dalle.
+En pratique, **les moniteurs partageant la même dalle ont souvent des performances identiques**, j'ai donc choisi de donner la version la moins chère de chaque dalle pertinente, mais vous pouvez rarement vous tromper en prenant ceux partageant cette dalle si jamais vous les trouvez en promo. Notez que même sur la même dalle, les fabricants appliquent parfois des revêtements différents (mat/brillant).
 
 
 * **[Asus ROG Strix XG27AQDMG](https://www.rtings.com/monitor/reviews/asus/rog-strix-oled-xg27aqdmg)** (WOLED QHD) - [600€](https://www.idealo.fr/prix/204427524/asus-rog-strix-oled-xg27aqdmg.html) - Un des rares WOLED avec revêtement glossy, auquel Asus ajoute une couche Micro Lens Array+ pour améliorer la luminosité. Ca en fait un moniteur idéal pour jouer dans une pièce bien éclairée, avec un tarif très sympa. Alternatives avec la même dalle : [LG 27GS95QE](https://www.rtings.com/monitor/reviews/lg/27gs95qe-b) (mat).
@@ -165,7 +165,7 @@ En pratique, **les moniteurs partageant la même dalle ont souvent des performan
 
 ## La 4K sinon rien (jeu haute performance, 32" 4K OLED 240Hz+)
 
-S'il reste difficile de faire tourner les jeux en 4K à des fréquences jouables en 2024, si vous avez une utilisation mixte multimédia/jeu, jouez à des jeux peu lourds ou prévoyez de claquer le PEL sur une future RTX 5080, les écrans 32" 4K OLED ne sont pas beaucoup plus chers que les 27" QHD
+S'il reste difficile de faire tourner les jeux en 4K à des fréquences jouables en 2024, si vous avez une utilisation mixte multimédia/jeu, jouez à des jeux peu lourds ou prévoyez de claquer le PEL sur une future RTX 5080, les écrans 32" 4K OLED sont ce qui se fait de mieux actuellement.
 
 * **[Samsung Odyssey G8 G80SD](https://www.rtings.com/monitor/reviews/samsung/odyssey-oled-g8-g80sd-s32dg80)** (QD-OLED 4K) - [1100€](https://www.samsung.com/fr/monitors/gaming/odyssey-oled-g8-g80sd-32-inch-240hz-oled-uhd-ls32dg800suxen/) - Les dalles Samsung de 3ème génération forment le gros de la gamme OLED 4K, mais si la plupart des fabricants l'utilisent avec un revêtement glossy, Samsung a fait le choix d'un revêtement mat. Alternatives avec la même dalle : [MSI MPG 321URX](https://www.rtings.com/monitor/reviews/msi/mpg-321urx-qd-oled), [Gigabyte FO32U2P](https://www.rtings.com/monitor/reviews/gigabyte/aorus-fo32u2p), [Asus ROG Swift PG32UCD**M**](https://www.rtings.com/monitor/reviews/asus/rog-swift-oled-pg32ucdm).
 
@@ -218,7 +218,7 @@ L'ultrawide restant un marché de niche pour utilisateurs exigeants et fortunés
 * **[LG 34GS95QE-B](https://www.rtings.com/monitor/reviews/lg/34gs95qe-b)** (WOLED) - [1000€](https://www.idealo.fr/prix/204253646/lg-ultragear-34gs95qe-b.html) - L'excellente mais chère dalle WOLED de LG, en version ultrawide matte. Courbe de 800R très agressive qui ne conviendra pas à tout le monde. Alternatives avec la même dalle : [ASUS ROG Swift PG34WCDM](https://www.rtings.com/monitor/reviews/asus/rog-swift-oled-pg34wcdm), Acer Predator X34 X.
 
 
-* **[Samsung Odyssey G9 G95SC](https://www.rtings.com/monitor/reviews/samsung/odyssey-oled-g9-g95sc-s49cg95)** (QD-OLED) - [1150€](https://www.samsung.com/fr/monitors/gaming/odyssey-oled-g9-g95sc-49-inch-240hz-curved-dual-qhd-ls49cg954suxen/) Vous trouvez que 34", ce n'est pas assez large ? Samsung vous propose cet écran 31:9 "ultra-ultrawide" de 49". Si certains jeux ne sont pas réellement jouables à cette définition à cause du crop ou des déformations latérales de la caméra, ça peut être très immersif dans certaines situations (racing, pilotage...), et utile pour bosser si vous aviez prévu deux écrans 27" de toute façon.
+* **[Samsung Odyssey G9 G95SC](https://www.rtings.com/monitor/reviews/samsung/odyssey-oled-g9-g95sc-s49cg95)** (QD-OLED) - [1150€](https://www.samsung.com/fr/monitors/gaming/odyssey-oled-g9-g95sc-49-inch-240hz-curved-dual-qhd-ls49cg954suxen/) Vous trouvez que 34", ce n'est pas assez large ? Samsung vous propose cet écran 31:9 "super-ultrawide" de 49". Si certains jeux ne sont pas réellement jouables à cette définition à cause du crop ou des déformations latérales de la caméra, ça peut être très immersif dans certaines situations (racing, pilotage...), et utile pour bosser si vous aviez prévu deux écrans 27" de toute façon.
 
 
 
