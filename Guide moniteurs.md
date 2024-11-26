@@ -49,25 +49,13 @@ Pour la productivité, c'est génial car vous pourrez afficher plus d'éléments
 
 Je vous fais grâce de la science, retenez que c'est des **grilles de cellules à cristaux liquides** (LCD) à [matrices actives](https://en.wikipedia.org/wiki/Liquid-crystal_display#Active-matrix_technologies) avec différentes façon d'activer chaque cellule (envoyer une tension) et de les rétro-éclairer. Sauf pour l'OLED, cf plus bas.
 
-* **TN :** (Twisted Nematic) : très populaire du temps où on n'arrivait pas à faire des dalles haute fréquence avec les autres technos, c'est maintenant une technologie obsolète qui a de gros défauts (faibles angles de visions, couleurs exécrables). A oublier pour tout nouvel achat.
-
 * **IPS :** (In-Plane Switching) : très bon sur la fidélité colorimétrique, les temps de réponse et les angles de vision. Elles ont cependant un contraste inférieur aux dalles VA. 
 
-* **VA :** (Vertical Alignment) : longtemps resté inférieur à l'IPS sur les temps de réponse, mais supérieur sur le contraste, on trouve enfin des dalles VA performantes. Adieu le ghosting, bonjour les dalles VA modernes, une gamme qui se place maintenant entre l'IPS et l'OLED. Les angles de vision restent inférieurs mais ce n'est que rarement un problème
+* **VA :** (Vertical Alignment) : longtemps resté inférieur à l'IPS sur les temps de réponse, mais supérieur sur le contraste, on trouve enfin des dalles VA performantes. Adieu le ghosting, bonjour les dalles VA modernes, une gamme qui se place maintenant entre l'IPS et l'OLED. Les angles de vision restent inférieurs, d'où la tendance de certains fabricants à faire des dalles incurvées en 16:9, ce qui est je trouve un cache-misère plutôt gênant. 
 
 * **OLED :** (Organic Light-Emitting Diode) : contrairement aux dalles à cristaux liquides, une dalle OLED est une grille de diodes microscopiques qui émettent leur propre lumière. La technologie OLED est encore onéreuse mais offre de nombreux avantages : noirs parfaits, basse conso, temps de réponse imperceptibles... Elle s'impose comme le nouveau standard sur le haut de gamme, malgré un risque de  burn-in à long terme.
 
-**Tableau récapitulatif :**
-
-| **Dalle** | **Taux de contraste** | **Fidélité des couleurs** | **Rapidité** | **Angles de vision** | **Prix**  |
-|-----------|------------|-------------|----------------|------------|------------
-| IPS       | Moyen      | Bon         | Bon            | Excellent  | Abordable  |
-| VA        | Bon        | Bon         | Bon            | Moyen      | Abordable  |
-| OLED      | Excellent  | Excellent   | Excellent      | Excellent  | Elevé      |
-
 [Explication des différentes technologies avec vues au microscope](https://tftcentral.co.uk/articles/panel_technologies).
-
-> Note sur les dalles incurvées : en ultrawide (21:9 et plus), la courbe est là pour mieux épouser la vision en arc de l'oeil humain. **En 16:9 par contre, la courbe ne procure aucun avantage, elle existe pour réduire un défaut des dalles VA : les couleurs deviennent ternes sur les côtés.**
 
 
 ## Performance
@@ -107,7 +95,7 @@ Outre le prix, les deux critères de choix importants :
 
 * **QD-OLED vs WOLED** : la technologie de la dalle OLED. Samsung utilise des dalles QD-OLED, offrant un color gamut plus élevé, des couleurs plus vives et une luminosité générale plus élevée. LG préfère les dalles WOLED, avec une luminosité plus consistante et sans edge-fringing. Les deux ont des performances de jeu quasi identiques. [Comparaison WOLED/QD-OLED](https://www.youtube.com/watch?v=y4pHSaFo664)
 
-* **Glossy vs mat** : Les fabricants recouvrent leur dalle d'un revêtement brillant (glossy) ou mat. Le glossy permet une image plus précise, mais est plus sujet aux réflexions, là où le revêtement mat a une image plus graineuse mais des réflexions très atténuées. C'est un choix assez personnel, certains comme [HDTVTest](https://www.youtube.com/watch?v=rCPBgHkFQCQ&t=18s) ne jurent que par le glossy, d'autres comme [OptiumTech](https://www.youtube.com/watch?v=fkGtsatPGT4) préfèrent le mat. [Comparaison des deux revêtements](https://tftcentral.co.uk/articles/glossy-vs-matte-oled-panel-coatings-compared-including-the-asus-rog-strix-xg27aqdmg). Typiquement Samsung utilise un revêtement semi-glossy, et LG un mat anti-reflet, mais les deux fabricants ont déjà fait l'inverse.
+* **Glossy vs mat** : Les fabricants recouvrent leur dalle d'un revêtement brillant (glossy) ou mat. Le glossy permet une image plus précise, mais est plus sujet aux réflexions, là où le revêtement mat a une image plus graineuse mais des réflexions très atténuées. C'est un choix assez personnel, certains comme [HDTVTest](https://www.youtube.com/watch?v=rCPBgHkFQCQ&t=18s) favorisent le glossy, d'autres comme [OptiumTech](https://www.youtube.com/watch?v=fkGtsatPGT4) préfèrent le mat. [Comparaison des deux revêtements](https://tftcentral.co.uk/articles/glossy-vs-matte-oled-panel-coatings-compared-including-the-asus-rog-strix-xg27aqdmg). Usuellement Samsung utilise un revêtement glossy, et LG un mat, mais les deux fabricants ont déjà fait l'inverse.
 
 
 ## Défauts potentiels des écrans
@@ -150,30 +138,30 @@ Autrefois le sweet spot pour les gamers, les écrans IPS voient leur prix baisse
 
 J'ai retardé l'écriture de ce guide pour être sûr que l'OLED convenait à une utilisation gaming quotidienne, je pense qu'on y est enfin : l'OLED s'impose comme le seul choix pertinent sur le haut de gamme, sauf si vous passez 100% du temps à travailler sur des logiciels statiques (le burn-in restant un problème sur cet usage).
 
-Rappel : vous avez le choix entre deux technologies de dalles (QD OLED vs WOLED), et un revêtement brillant vs mat. Faites bien vos recherches pour savoir ce qui vous conviendra le mieux.
+Rappel : vous avez le choix entre des dalles QD OLED ou WOLED, et un revêtement brillant ou mat. Faites bien vos recherches pour savoir ce qui vous conviendra le mieux.
 
-En pratique, **les moniteurs partageant la même dalle ont souvent des performances identiques**, j'ai donc choisi de donner la version la moins chère de chaque dalle pertinente, mais vous pouvez rarement vous tromper en prenant ceux partageant cette dalle si jamais vous les trouvez en promo. Notez que même sur la même dalle, les fabricants appliquent parfois des revêtements différents (mat/brillant).
-
-
-* **[Asus ROG Strix XG27AQDMG](https://www.rtings.com/monitor/reviews/asus/rog-strix-oled-xg27aqdmg)** (WOLED QHD) - [600€](https://www.idealo.fr/prix/204427524/asus-rog-strix-oled-xg27aqdmg.html) - Un des rares WOLED avec revêtement glossy, auquel Asus ajoute une couche Micro Lens Array+ pour améliorer la luminosité. Ca en fait un moniteur idéal pour jouer dans une pièce bien éclairée, avec un tarif très sympa. Alternatives avec la même dalle : [LG 27GS95QE](https://www.rtings.com/monitor/reviews/lg/27gs95qe-b) (mat).
+En pratique, **les moniteurs partageant la même dalle ont souvent des performances identiques**, j'ai donc choisi de donner la version la moins chère de chaque dalle pertinente, mais vous pouvez rarement vous tromper en prenant ceux partageant cette dalle si jamais vous les trouvez en promo. Notez que même sur une dalle unique, les fabricants appliquent parfois des revêtements différents.
 
 
-* **[Dell AW2725DF](https://www.rtings.com/monitor/reviews/dell/alienware-aw2725df)** (QD-OLED QHD) - [700€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-qd-oled-360-hz-alienware-27-aw2725df/apd/210-blhh/moniteurs-et-accessoires-de-moniteur) - L'option compétitive : parfait pour jouer à 360Hz avec des temps de réponse imperceptibles. Alternatives avec la même dalle : [Gigabyte AORUS FO27Q3](https://www.rtings.com/monitor/reviews/asus/rog-strix-oled-xg27aqdmg), [MSI MPG 271QRX QD-OLED](https://www.rtings.com/monitor/reviews/msi/mpg-271qrx-qd-oled).
+* **[Asus ROG Strix XG27AQDMG](https://www.rtings.com/monitor/reviews/asus/rog-strix-oled-xg27aqdmg)** (WOLED) - [600€](https://www.idealo.fr/prix/204427524/asus-rog-strix-oled-xg27aqdmg.html) - Un des rares WOLED avec revêtement glossy, auquel Asus ajoute une couche Micro Lens Array+ pour améliorer la luminosité. Ca en fait un moniteur idéal pour jouer dans une pièce bien éclairée, avec un tarif très sympa. Alternatives avec la même dalle : [LG 27GS95QE](https://www.rtings.com/monitor/reviews/lg/27gs95qe-b) (mat).
 
-* **[Asus ROG Swift PG27AQDP](https://www.rtings.com/monitor/reviews/asus/rog-swift-oled-pg27aqdp)** (WOLED QHD) - [1100€](https://www.ldlc.com/en/product/PB00631796.html) - L'option ultra-compétitive : si d'une manière ou d'une autre vous arrivez à pousser votre carte graphique à 1440p @ 480Hz sans que votre jeu ne ressemble à Cyberpunk sur PS4, on ne fait pas plus rapide que cet écran. Par contre il est aux prix des modèles 4K.
+
+* **[Dell AW2725DF](https://www.rtings.com/monitor/reviews/dell/alienware-aw2725df)** (QD-OLED) - [700€](https://www.dell.com/fr-fr/shop/%C3%A9cran-de-gaming-qd-oled-360-hz-alienware-27-aw2725df/apd/210-blhh/moniteurs-et-accessoires-de-moniteur) - L'option compétitive : parfait pour jouer à 360Hz avec des temps de réponse imperceptibles. Alternatives avec la même dalle : [Gigabyte AORUS FO27Q3](https://www.rtings.com/monitor/reviews/asus/rog-strix-oled-xg27aqdmg), [MSI MPG 271QRX QD-OLED](https://www.rtings.com/monitor/reviews/msi/mpg-271qrx-qd-oled).
+
+* **[Asus ROG Swift PG27AQDP](https://www.rtings.com/monitor/reviews/asus/rog-swift-oled-pg27aqdp)** (WOLED) - [1100€](https://www.ldlc.com/en/product/PB00631796.html) - L'option ultra-compétitive : si d'une manière ou d'une autre vous arrivez à pousser votre carte graphique à 1440p @ 480Hz sans que votre jeu ne ressemble à Cyberpunk sur PS4, on ne fait pas plus rapide que cet écran. Par contre il est aux prix des modèles 4K.
 
 
 ## La 4K sinon rien (jeu haute performance, 32" 4K OLED 240Hz+)
 
 S'il reste difficile de faire tourner les jeux en 4K à des fréquences jouables en 2024, si vous avez une utilisation mixte multimédia/jeu, jouez à des jeux peu lourds ou prévoyez de claquer le PEL sur une future RTX 5080, les écrans 32" 4K OLED sont ce qui se fait de mieux actuellement.
 
-* **[Samsung Odyssey G8 G80SD](https://www.rtings.com/monitor/reviews/samsung/odyssey-oled-g8-g80sd-s32dg80)** (QD-OLED 4K) - [1100€](https://www.samsung.com/fr/monitors/gaming/odyssey-oled-g8-g80sd-32-inch-240hz-oled-uhd-ls32dg800suxen/) - Les dalles Samsung de 3ème génération forment le gros de la gamme OLED 4K, mais si la plupart des fabricants l'utilisent avec un revêtement glossy, Samsung a fait le choix d'un revêtement mat. Alternatives avec la même dalle : [MSI MPG 321URX](https://www.rtings.com/monitor/reviews/msi/mpg-321urx-qd-oled), [Gigabyte FO32U2P](https://www.rtings.com/monitor/reviews/gigabyte/aorus-fo32u2p), [Asus ROG Swift PG32UCD**M**](https://www.rtings.com/monitor/reviews/asus/rog-swift-oled-pg32ucdm).
+* **[Samsung Odyssey G8 G80SD](https://www.rtings.com/monitor/reviews/samsung/odyssey-oled-g8-g80sd-s32dg80)** (QD-OLED) - [1100€](https://www.samsung.com/fr/monitors/gaming/odyssey-oled-g8-g80sd-32-inch-240hz-oled-uhd-ls32dg800suxen/) - Les dalles Samsung de 3ème génération forment le gros de la gamme OLED 4K, mais si la plupart des fabricants l'utilisent avec un revêtement glossy, Samsung a fait le choix d'un revêtement mat. Alternatives avec la même dalle : [MSI MPG 321URX](https://www.rtings.com/monitor/reviews/msi/mpg-321urx-qd-oled), [Gigabyte FO32U2P](https://www.rtings.com/monitor/reviews/gigabyte/aorus-fo32u2p), [Asus ROG Swift PG32UCD**M**](https://www.rtings.com/monitor/reviews/asus/rog-swift-oled-pg32ucdm).
 
 
-* **[Dell AW3225QF](https://www.rtings.com/monitor/reviews/dell/alienware-aw3225qf)** (QD-OLED 4K) - [1120€](https://www.dell.com/fr-fr/shop/%C3%A9cran-gaming-alienware-32-4k-qd-oled-aw3225qf/apd/210-bllv/moniteurs-et-accessoires-de-moniteur?tfcid=45113341) - Cet écran offre une alternative intéressante pour ceux qui préfèrent leur 32" avec un peu de courbes : même dalle que le Samsung G8 G80SD, mais sur une version glossy incurvée à 1700R. 
+* **[Dell AW3225QF](https://www.rtings.com/monitor/reviews/dell/alienware-aw3225qf)** (QD-OLED) - [1120€](https://www.dell.com/fr-fr/shop/%C3%A9cran-gaming-alienware-32-4k-qd-oled-aw3225qf/apd/210-bllv/moniteurs-et-accessoires-de-moniteur?tfcid=45113341) - Cet écran offre une alternative intéressante pour ceux qui préfèrent leur 32" avec un peu de courbes : même dalle que le Samsung G8 G80SD, mais sur une version glossy incurvée à 1700R. 
 
 
-* **[LG 32GS95UE](https://www.rtings.com/monitor/reviews/lg/32gs95ue-b)** (WOLED 4K) - [1300€](https://www.idealo.fr/prix/204401826/lg-oled-ultragear-32gs95ue.html) - Ok, 200€ plus cher que le Samsung, qu'est-ce que j'y gagne ? Le Dual-Mode, permettant de basculer l'affichage 4K @ 240Hz en 1080p @ 480Hz pour vos jeux compétitifs. Pour ceux qui veulent le beurre et l'argent du beurre. Alternatives avec la même dalle : [Asus ROG Swift PG32UCD**P**](https://www.rtings.com/monitor/reviews/asus/rog-swift-oled-pg32ucdp).
+* **[LG 32GS95UE](https://www.rtings.com/monitor/reviews/lg/32gs95ue-b)** (WOLED) - [1300€](https://www.idealo.fr/prix/204401826/lg-oled-ultragear-32gs95ue.html) - Ok, 200€ plus cher que le Samsung, qu'est-ce que j'y gagne ? Le Dual-Mode, permettant de basculer l'affichage 4K @ 240Hz en 1080p @ 480Hz pour vos jeux compétitifs. Pour ceux qui veulent le beurre et l'argent du beurre. Alternatives avec la même dalle : [Asus ROG Swift PG32UCD**P**](https://www.rtings.com/monitor/reviews/asus/rog-swift-oled-pg32ucdp).
 
 
 
