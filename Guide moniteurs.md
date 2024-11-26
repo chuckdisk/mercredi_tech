@@ -1,4 +1,4 @@
-Changement de paradigme dans les moniteurs en 2024, où l'OLED domine la plupart des segments haut de gamme, les dalles VA deviennent enfin performantes et l'IPS est relégué à l'entrée de gamme pour le plus grand plaisir des joueurs et créatifs à petit budget. Ce guide remplace l'ancien guide moniteur, que vous pouvez retrouver [ici](https://www.reddit.com/r/france/comments/raut39/guide_dachat_moniteurs/).
+Changement de paradigme dans les moniteurs en 2024, où l'OLED domine la plupart des segments haut de gamme, les dalles VA deviennent enfin performantes et l'IPS est relégué à l'entrée de gamme pour le plus grand plaisir des joueurs et créatifs à petit budget. 
 
 [Les autres guides d'achat](https://www.reddit.com/r/france/search?q=guide+author%3Achuckmauricefacts+flair%3Ascience&restrict_sr=on&sort=relevance&t=all)
 
